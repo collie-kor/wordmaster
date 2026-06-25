@@ -34,9 +34,8 @@ export const themeStore = {
   get(): Theme {
     const saved = localStorage.getItem(THEME_KEY)
     if (saved === 'light' || saved === 'dark') return saved
-    const prefersDark =
-      window.matchMedia?.('(prefers-color-scheme: dark)').matches ?? false
-    return prefersDark ? 'dark' : 'light'
+    // 저장된 선택이 없으면 시스템 설정과 무관하게 기본 라이트모드
+    return 'light'
   },
   set(theme: Theme) {
     localStorage.setItem(THEME_KEY, theme)
