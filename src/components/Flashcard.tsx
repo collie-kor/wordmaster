@@ -41,6 +41,44 @@ function useFitText(text: string) {
   return ref
 }
 
+/**
+ * 한글 뜻이 길면 줄바꿈되며 정해진 영역(.fc-meaning)을 넘칠 수 있다.
+ * 영역(높이·폭)을 넘으면 뜻 글자 크기를 줄여 카드 밖으로 튀어나오지 않게 한다.
+ */
+function useFitMeaning(text: string) {
+  const boxRef = useRef<HTMLDivElement>(null)
+  const textRef = useRef<HTMLSpanElement>(null)
+
+  useLayoutEffect(() => {
+    const box = boxRef.current
+    const t = textRef.current
+    if (!box || !t) return
+
+    const fit = () => {
+      t.style.fontSize = '' // CSS 기본(최대) 크기로 리셋 후 측정
+      let size = parseFloat(getComputedStyle(t).fontSize)
+      let guard = 200
+      while (
+        (box.scrollHeight > box.clientHeight || box.scrollWidth > box.clientWidth) &&
+        size > 11 &&
+        guard-- > 0
+      ) {
+        size -= 1
+        t.style.fontSize = `${size}px`
+      }
+    }
+
+    fit()
+    const ro = new ResizeObserver(fit)
+    ro.observe(box)
+    document.fonts?.ready.then(fit).catch(() => {})
+
+    return () => ro.disconnect()
+  }, [text])
+
+  return { boxRef, textRef }
+}
+
 interface Props {
   word: Word
   /** 카드 깊이(겹친 카드 표현용). 0 = 맨 앞 */
@@ -63,6 +101,7 @@ export default function Flashcard({ word, depth, onNext }: Props) {
 
   const isFront = depth === 0
   const wordRef = useFitText(word.word)
+  const { boxRef: meaningBoxRef, textRef: meaningTextRef } = useFitMeaning(word.meaning)
   // 드래그(peek/스와이프) 직후 발생하는 click을 무시하기 위한 플래그
   const draggedRef = useRef(false)
 
@@ -133,6 +172,7 @@ export default function Flashcard({ word, depth, onNext }: Props) {
       </div>
 
       <motion.div
+        ref={meaningBoxRef}
         className="fc-meaning"
         style={{
           opacity: isFront ? meaningOpacity : 0,
@@ -140,7 +180,9 @@ export default function Flashcard({ word, depth, onNext }: Props) {
         }}
       >
         <span className="fc-pos">{word.pos}</span>
-        <span className="fc-meaning-text">{word.meaning}</span>
+        <span ref={meaningTextRef} className="fc-meaning-text">
+          {word.meaning}
+        </span>
       </motion.div>
 
       {isFront && (
