@@ -17,11 +17,15 @@ dist-ssr/
 # claude code 로컬 설정
 .claude/settings.local.json
 
-# capacitor / android 빌드물
+# capacitor / android 빌드물 + 서명키(절대 커밋 금지)
 android/
 ios/
 *.apk
 *.aab
+*.zip
+*.keystore
+*.jks
+signing-key-info.txt
 
 # logs & misc
 *.log
