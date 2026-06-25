@@ -92,7 +92,8 @@ export default function Flashcard({ word, depth, onNext }: Props) {
         y,
         zIndex: 10 - depth,
         scale: 1 - depth * 0.04,
-        translateY: depth * 14,
+        // 겹친 카드는 위쪽으로 살짝 올려 표시(아래로 내리면 '다음' 버튼을 침범).
+        translateY: depth * -8,
         pointerEvents: isFront ? 'auto' : 'none',
       }}
       drag={isFront}
