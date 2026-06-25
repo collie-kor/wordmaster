@@ -53,21 +53,20 @@
 
 .cd-stage {
   position: relative;
-  width: 100%;
-  /* 모바일: 세로로 약간 긴 큼직한 카드 (폭≈90vw, 높이≈52vh) */
+  /* 세로 4/5 비율을 모든 화면에서 유지.
+     breakpoint 점프 없이 화면이 커질수록 카드도 연속적으로 커지되 상한선:
+       - 폭: 컨테이너 폭(좁은 화면) → 최대 480px
+       - 높이: 화면 높이의 ~72%를 넘지 않게(58vh 기준 폭으로 환산) */
   aspect-ratio: 4 / 5;
-  margin: 16px 0;
+  width: min(100%, 480px, 62vh);
+  margin: 16px auto;
 }
 
-/* 노트북 등 넓은 화면: 컨테이너를 키워 카드를 더 크게 */
+/* 넓은(=세로 여유 있는) 화면에서는 카드를 세로 가운데로 — 위에 떠 보이지 않게.
+   콘텐츠가 화면보다 길면 safe로 잘리지 않고 위 정렬로 폴백 */
 @media (min-width: 700px) {
   .cd-wrap {
-    max-width: 760px;
-  }
-  .cd-stage {
-    /* 정사각형이 너무 커지지 않게 살짝 가로로 넓힌 큰 카드 */
-    aspect-ratio: 4 / 3;
-    margin: 36px 0;
+    justify-content: safe center;
   }
 }
 
