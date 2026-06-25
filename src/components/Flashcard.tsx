@@ -15,20 +15,28 @@ function useFitText(text: string) {
     const box = el?.parentElement
     if (!el || !box) return
 
+    const SAFETY = 4 // 잘림 방지용 여백(px)
+
     const fit = () => {
       el.style.fontSize = '' // CSS 기본(최대) 크기로 리셋 후 측정
-      const max = parseFloat(getComputedStyle(el).fontSize)
-      let size = max
-      // 한 줄(nowrap) 상태에서 폭을 넘으면 한 단계씩 축소
-      while (el.scrollWidth > box.clientWidth && size > 14) {
+      let size = parseFloat(getComputedStyle(el).fontSize)
+      // 한 줄(nowrap) 상태에서 폭을 넘으면 한 단계씩 축소(여백 포함)
+      while (el.scrollWidth > box.clientWidth - SAFETY && size > 14) {
         size -= 1
         el.style.fontSize = `${size}px`
       }
     }
 
     fit()
+    // 레이아웃/웹폰트가 늦게 잡히는 경우 대비해 한 번 더 측정
+    const raf = requestAnimationFrame(fit)
+    document.fonts?.ready.then(fit).catch(() => {})
+
     window.addEventListener('resize', fit)
-    return () => window.removeEventListener('resize', fit)
+    return () => {
+      cancelAnimationFrame(raf)
+      window.removeEventListener('resize', fit)
+    }
   }, [text])
 
   return ref
