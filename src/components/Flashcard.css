@@ -42,7 +42,14 @@
   white-space: nowrap; /* 한 단어는 항상 한 줄 */
 }
 
+/* 뜻은 흐름에서 빼서(absolute) 단어 위치에 영향을 주지 않게 한다.
+   → 뜻(한글) 길이와 무관하게 영어 단어가 항상 카드 정중앙에 온다.
+   뜻은 단어 아래(카드 하단 영역)에 고정 위치로 표시. */
 .fc-meaning {
+  position: absolute;
+  left: 18px;
+  right: 18px;
+  top: 60%;
   display: flex;
   flex-direction: column;
   align-items: center;
