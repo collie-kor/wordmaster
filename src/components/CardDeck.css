@@ -11,25 +11,32 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 12px;
   margin-bottom: 12px;
+  /* 우상단 고정 테마 토글(38px @ right:14)과 진행률이 겹치지 않게 비켜둠 */
+  padding-right: 46px;
 }
 
 .cd-back {
+  flex: 0 0 auto;
   padding: 6px 0;
   font-size: 14px;
   color: var(--text-muted);
   background: none;
   border: none;
+  white-space: nowrap;
 }
 .cd-back:hover {
   color: var(--text);
 }
 
 .cd-progress-text {
+  flex: 0 0 auto;
   font-size: 13px;
   letter-spacing: 0.03em;
   color: var(--text-faint);
   font-variant-numeric: tabular-nums;
+  white-space: nowrap;
 }
 
 .cd-bar {

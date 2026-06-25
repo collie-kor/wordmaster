@@ -1,6 +1,38 @@
+import { useLayoutEffect, useRef } from 'react'
 import { motion, useMotionValue, useTransform, animate, type PanInfo } from 'framer-motion'
 import type { Word } from '../lib/api'
 import './Flashcard.css'
+
+/**
+ * 단어를 항상 한 줄에 두고, 카드 폭을 넘치면 폰트를 줄여 맞춘다.
+ * (CSS clamp만으로는 14글자급 긴 단어를 좁은 화면에서 한 줄로 보장하기 어렵다.)
+ */
+function useFitText(text: string) {
+  const ref = useRef<HTMLSpanElement>(null)
+
+  useLayoutEffect(() => {
+    const el = ref.current
+    const box = el?.parentElement
+    if (!el || !box) return
+
+    const fit = () => {
+      el.style.fontSize = '' // CSS 기본(최대) 크기로 리셋 후 측정
+      const max = parseFloat(getComputedStyle(el).fontSize)
+      let size = max
+      // 한 줄(nowrap) 상태에서 폭을 넘으면 한 단계씩 축소
+      while (el.scrollWidth > box.clientWidth && size > 14) {
+        size -= 1
+        el.style.fontSize = `${size}px`
+      }
+    }
+
+    fit()
+    window.addEventListener('resize', fit)
+    return () => window.removeEventListener('resize', fit)
+  }, [text])
+
+  return ref
+}
 
 interface Props {
   word: Word
@@ -23,6 +55,7 @@ export default function Flashcard({ word, depth, onNext }: Props) {
   const hintOpacity = useTransform(y, [-40, 0], [0, 0.9])
 
   const isFront = depth === 0
+  const wordRef = useFitText(word.word)
 
   function handleDragEnd(_: unknown, info: PanInfo) {
     const dx = info.offset.x
@@ -63,9 +96,15 @@ export default function Flashcard({ word, depth, onNext }: Props) {
       animate={{ opacity: 1 }}
       transition={{ duration: 0.2 }}
     >
-      <motion.span className="fc-word" style={{ opacity: isFront ? wordOpacity : 1 }}>
-        {word.word}
-      </motion.span>
+      <div className="fc-word-box">
+        <motion.span
+          ref={wordRef}
+          className="fc-word"
+          style={{ opacity: isFront ? wordOpacity : 1 }}
+        >
+          {word.word}
+        </motion.span>
+      </div>
 
       <motion.div
         className="fc-meaning"
