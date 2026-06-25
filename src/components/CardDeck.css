@@ -1,8 +1,8 @@
 .cd-wrap {
   min-height: 100%;
-  max-width: 480px;
+  max-width: 520px;
   margin: 0 auto;
-  padding: 18px 14px 24px;
+  padding: 16px 20px 24px;
   display: flex;
   flex-direction: column;
 }
@@ -54,9 +54,9 @@
 .cd-stage {
   position: relative;
   width: 100%;
-  /* 모바일: 단어 카드를 정사각형으로 */
-  aspect-ratio: 1 / 1;
-  margin: 18px 0;
+  /* 모바일: 세로로 약간 긴 큼직한 카드 (폭≈90vw, 높이≈52vh) */
+  aspect-ratio: 4 / 5;
+  margin: 16px 0;
 }
 
 /* 노트북 등 넓은 화면: 컨테이너를 키워 카드를 더 크게 */
