@@ -48,7 +48,7 @@ export default function CardDeck({ words, title, onBack }: Props) {
     <div className="cd-wrap">
       <header className="cd-head">
         <button className="cd-back" onClick={onBack} aria-label="뒤로">
-          ← 시험 선택
+          ← 모드 선택
         </button>
         <span className="cd-progress-text">
           {Math.min(index, total)} / {total}

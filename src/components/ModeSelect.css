@@ -1,0 +1,82 @@
+.ms-wrap {
+  min-height: 100%;
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 18px 22px 40px;
+  display: flex;
+  flex-direction: column;
+}
+
+.ms-back {
+  align-self: flex-start;
+  padding: 6px 0;
+  font-size: 14px;
+  color: var(--text-muted);
+  background: none;
+  border: none;
+  white-space: nowrap;
+  touch-action: manipulation;
+}
+.ms-back:hover {
+  color: var(--text);
+}
+
+.ms-head {
+  margin: 18px 0 24px;
+}
+
+.ms-title {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.ms-sub {
+  margin: 6px 0 0;
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+.ms-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.ms-card {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+  padding: 22px 20px;
+  text-align: left;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
+  transition: transform 0.12s var(--ease-spring);
+  touch-action: manipulation;
+}
+.ms-card:hover {
+  transform: translateY(-2px);
+}
+.ms-card:active {
+  transform: translateY(0);
+}
+
+.ms-card-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.ms-card-desc {
+  font-size: 13px;
+  color: var(--text-faint);
+}

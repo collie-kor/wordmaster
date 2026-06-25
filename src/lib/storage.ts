@@ -2,7 +2,8 @@ import type { Exam, Word } from './api'
 
 const PASS_KEY = 'wm.pass'
 const THEME_KEY = 'wm.theme'
-const wordsKey = (exam: Exam) => `wm.words.${exam}`
+// v2: 단어에 day 필드 추가 → 이전 캐시(day 없음)는 무시되도록 키 버전 올림
+const wordsKey = (exam: Exam) => `wm.words.v2.${exam}`
 
 export type Theme = 'light' | 'dark'
 

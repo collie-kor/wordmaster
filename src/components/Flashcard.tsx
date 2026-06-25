@@ -1,83 +1,8 @@
-import { useLayoutEffect, useRef } from 'react'
+import { useRef } from 'react'
 import { motion, useMotionValue, useTransform, animate, type PanInfo } from 'framer-motion'
 import type { Word } from '../lib/api'
+import { useFitText, useFitMeaning } from '../lib/fit'
 import './Flashcard.css'
-
-/**
- * 단어를 항상 한 줄에 두고, 카드 폭을 넘치면 폰트를 줄여 맞춘다.
- * (CSS clamp만으로는 14글자급 긴 단어를 좁은 화면에서 한 줄로 보장하기 어렵다.)
- */
-function useFitText(text: string) {
-  const ref = useRef<HTMLSpanElement>(null)
-
-  useLayoutEffect(() => {
-    const el = ref.current
-    const box = el?.parentElement
-    if (!el || !box) return
-
-    const SAFETY = 4 // 잘림 방지용 여백(px)
-
-    const fit = () => {
-      el.style.fontSize = '' // CSS 기본(최대) 크기로 리셋 후 측정
-      let size = parseFloat(getComputedStyle(el).fontSize)
-      let guard = 300
-      // 한 줄(nowrap) 상태에서 폭을 넘으면 한 단계씩 축소(여백 포함)
-      while (el.scrollWidth > box.clientWidth - SAFETY && size > 12 && guard-- > 0) {
-        size -= 1
-        el.style.fontSize = `${size}px`
-      }
-    }
-
-    fit()
-    // 카드 크기가 최종 확정되거나 바뀔 때마다(레이아웃 settle, 회전, 리사이즈)
-    // 다시 맞춘다. 초기 측정이 카드의 임시(넓은) 크기로 잡혀도 교정됨.
-    const ro = new ResizeObserver(fit)
-    ro.observe(box)
-    document.fonts?.ready.then(fit).catch(() => {})
-
-    return () => ro.disconnect()
-  }, [text])
-
-  return ref
-}
-
-/**
- * 한글 뜻이 길면 줄바꿈되며 정해진 영역(.fc-meaning)을 넘칠 수 있다.
- * 영역(높이·폭)을 넘으면 뜻 글자 크기를 줄여 카드 밖으로 튀어나오지 않게 한다.
- */
-function useFitMeaning(text: string) {
-  const boxRef = useRef<HTMLDivElement>(null)
-  const textRef = useRef<HTMLSpanElement>(null)
-
-  useLayoutEffect(() => {
-    const box = boxRef.current
-    const t = textRef.current
-    if (!box || !t) return
-
-    const fit = () => {
-      t.style.fontSize = '' // CSS 기본(최대) 크기로 리셋 후 측정
-      let size = parseFloat(getComputedStyle(t).fontSize)
-      let guard = 200
-      while (
-        (box.scrollHeight > box.clientHeight || box.scrollWidth > box.clientWidth) &&
-        size > 11 &&
-        guard-- > 0
-      ) {
-        size -= 1
-        t.style.fontSize = `${size}px`
-      }
-    }
-
-    fit()
-    const ro = new ResizeObserver(fit)
-    ro.observe(box)
-    document.fonts?.ready.then(fit).catch(() => {})
-
-    return () => ro.disconnect()
-  }, [text])
-
-  return { boxRef, textRef }
-}
 
 interface Props {
   word: Word

@@ -1,19 +1,27 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import PasswordModal from './components/PasswordModal'
 import ExamSelect, { EXAMS } from './components/ExamSelect'
+import ModeSelect, { type Mode } from './components/ModeSelect'
+import DaySelect from './components/DaySelect'
+import StudyDeck from './components/StudyDeck'
+import TestDeck from './components/TestDeck'
 import CardDeck from './components/CardDeck'
 import { fetchWords, type Exam, type Word } from './lib/api'
 import { passStore, wordCache, themeStore, type Theme } from './lib/storage'
 import './App.css'
 
-type View = 'select' | 'deck'
+type Screen = 'examSelect' | 'modeSelect' | 'daySelect' | 'study' | 'test' | 'random'
 
 export default function App() {
   const [theme, setTheme] = useState<Theme>(() => themeStore.get())
   const [passed, setPassed] = useState(() => passStore.isPassed())
-  const [view, setView] = useState<View>('select')
+
+  const [screen, setScreen] = useState<Screen>('examSelect')
   const [exam, setExam] = useState<Exam | null>(null)
-  const [words, setWords] = useState<Word[]>([])
+  const [words, setWords] = useState<Word[]>([]) // 선택 시험의 전체 단어(단어장 순서)
+  const [mode, setMode] = useState<Mode | null>(null)
+  const [day, setDay] = useState<number | null>(null)
+
   const [loadError, setLoadError] = useState('')
   const [loading, setLoading] = useState(false)
 
@@ -22,22 +30,32 @@ export default function App() {
     themeStore.set(theme)
   }, [theme])
 
+  const examTitle = useMemo(
+    () => EXAMS.find((e) => e.exam === exam)?.title ?? '',
+    [exam]
+  )
+  const days = useMemo(
+    () => [...new Set(words.map((w) => w.day))].sort((a, b) => a - b),
+    [words]
+  )
+  const dayWords = useMemo(
+    () => (day == null ? [] : words.filter((w) => w.day === day)),
+    [words, day]
+  )
+
   async function selectExam(picked: Exam) {
     setExam(picked)
     setLoadError('')
 
-    // 오프라인 대비: 캐시가 있으면 먼저 사용
     const cached = wordCache.get(picked)
     if (cached?.length) {
       setWords(cached)
-      setView('deck')
+      setScreen('modeSelect')
       return
     }
 
     setLoading(true)
     try {
-      // 로그인 시 전 시험을 캐시하므로 보통 여기 오지 않는다.
-      // (캐시가 비워진 경우만) 평문 보관을 피하려 비번을 다시 받는다.
       const pwd = window.prompt('비밀번호를 다시 입력하세요 (단어 불러오기)')
       if (!pwd) {
         setLoading(false)
@@ -46,7 +64,7 @@ export default function App() {
       const w = await fetchWords(pwd, picked)
       wordCache.set(picked, w)
       setWords(w)
-      setView('deck')
+      setScreen('modeSelect')
     } catch (err) {
       setLoadError(err instanceof Error ? err.message : '불러오기 실패')
     } finally {
@@ -54,10 +72,15 @@ export default function App() {
     }
   }
 
-  function backToSelect() {
-    setView('select')
-    setExam(null)
-    setWords([])
+  function selectMode(m: Mode) {
+    setMode(m)
+    if (m === 'random') setScreen('random')
+    else setScreen('daySelect')
+  }
+
+  function selectDay(d: number) {
+    setDay(d)
+    setScreen(mode === 'study' ? 'study' : 'test')
   }
 
   const toggleTheme = () => setTheme((t) => (t === 'light' ? 'dark' : 'light'))
@@ -71,13 +94,13 @@ export default function App() {
     )
   }
 
-  const examTitle = EXAMS.find((e) => e.exam === exam)?.title ?? ''
+  const dayTitle = day != null ? `${examTitle} · DAY ${day}` : examTitle
 
   return (
     <div className="app">
       <ThemeToggle theme={theme} onToggle={toggleTheme} />
 
-      {view === 'select' && (
+      {screen === 'examSelect' && (
         <>
           <ExamSelect onSelect={selectExam} />
           {loading && <p className="app-status">불러오는 중…</p>}
@@ -85,8 +108,47 @@ export default function App() {
         </>
       )}
 
-      {view === 'deck' && exam && (
-        <CardDeck words={words} title={examTitle} onBack={backToSelect} />
+      {screen === 'modeSelect' && exam && (
+        <ModeSelect
+          title={examTitle}
+          onSelect={selectMode}
+          onBack={() => setScreen('examSelect')}
+        />
+      )}
+
+      {screen === 'daySelect' && (
+        <DaySelect
+          title={examTitle}
+          subtitle={mode === 'study' ? 'DAY별 학습' : 'DAY별 테스트'}
+          days={days}
+          onSelect={selectDay}
+          onBack={() => setScreen('modeSelect')}
+        />
+      )}
+
+      {screen === 'study' && (
+        <StudyDeck
+          words={dayWords}
+          title={dayTitle}
+          onBack={() => setScreen('daySelect')}
+        />
+      )}
+
+      {screen === 'test' && (
+        <TestDeck
+          dayWords={dayWords}
+          pool={words}
+          title={dayTitle}
+          onBack={() => setScreen('daySelect')}
+        />
+      )}
+
+      {screen === 'random' && (
+        <CardDeck
+          words={words}
+          title={examTitle}
+          onBack={() => setScreen('modeSelect')}
+        />
       )}
     </div>
   )

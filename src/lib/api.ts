@@ -1,6 +1,7 @@
 export type Exam = 'midterm' | 'final'
 
 export interface Word {
+  day: number
   word: string
   pos: string
   meaning: string

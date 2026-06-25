@@ -52,7 +52,7 @@ export default function handler(req, res) {
 
   const words = allWords
     .filter((w) => w.exam === exam)
-    .map(({ word, pos, meaning }) => ({ word, pos, meaning }))
+    .map(({ day, word, pos, meaning }) => ({ day, word, pos, meaning }))
 
   res.status(200).json({ words })
 }
