@@ -63,8 +63,19 @@ export default function Flashcard({ word, depth, onNext }: Props) {
 
   const isFront = depth === 0
   const wordRef = useFitText(word.word)
+  // 드래그(peek/스와이프) 직후 발생하는 click을 무시하기 위한 플래그
+  const draggedRef = useRef(false)
+
+  function handleDragStart() {
+    draggedRef.current = true
+  }
 
   function handleDragEnd(_: unknown, info: PanInfo) {
+    // 이번 클릭 한 번만 무시(드래그 직후), 그 다음부터는 탭 허용
+    setTimeout(() => {
+      draggedRef.current = false
+    }, 0)
+
     const dx = info.offset.x
     const horizontal = Math.abs(dx) > Math.abs(info.offset.y)
 
@@ -84,6 +95,12 @@ export default function Flashcard({ word, depth, onNext }: Props) {
     animate(y, 0, { type: 'spring', stiffness: 500, damping: 32 })
   }
 
+  function handleClick() {
+    // 큰 카드 아무 곳이나 탭하면 다음으로(죽은 탭 방지). 드래그 직후엔 무시.
+    if (!isFront || draggedRef.current) return
+    onNext(1)
+  }
+
   return (
     <motion.div
       className="fc-card"
@@ -99,7 +116,11 @@ export default function Flashcard({ word, depth, onNext }: Props) {
       drag={isFront}
       dragElastic={0.6}
       dragConstraints={{ left: 0, right: 0, top: 0, bottom: 0 }}
+      onDragStart={handleDragStart}
       onDragEnd={handleDragEnd}
+      // 카드를 탭하면(드래그 아님) 다음으로 — 큰 카드에 탭이 떨어져도 넘어가게.
+      // (위로 드래그=뜻 보기, 스와이프=다음 은 드래그라 click 가드로 제외)
+      onClick={handleClick}
     >
       <div className="fc-word-box">
         <motion.span

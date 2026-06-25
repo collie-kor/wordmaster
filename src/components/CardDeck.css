@@ -25,6 +25,7 @@
   background: none;
   border: none;
   white-space: nowrap;
+  touch-action: manipulation;
 }
 .cd-back:hover {
   color: var(--text);
@@ -62,6 +63,9 @@
   aspect-ratio: 4 / 5;
   width: min(100%, 480px, calc((100svh - 190px) * 4 / 5));
   margin: 16px auto;
+  /* 카드들의 z-index를 이 스테이지 안에 가둬, 어떤 경우에도 아래 '다음'
+     버튼을 덮지 못하게 한다(스택 컨텍스트 격리). */
+  isolation: isolate;
 }
 
 /* 넓은(=세로 여유 있는) 화면에서는 카드를 세로 가운데로 — 위에 떠 보이지 않게.
@@ -100,25 +104,31 @@
   background: var(--accent);
   border: none;
   border-radius: var(--radius-md);
+  touch-action: manipulation;
 }
 .cd-restart:hover {
   background: var(--accent-strong);
 }
 
 .cd-controls {
+  position: relative;
+  z-index: 1;
   display: flex;
   justify-content: center;
 }
 .cd-next {
   width: 100%;
-  max-width: 220px;
-  padding: 15px;
+  max-width: 300px;
+  padding: 16px;
   font-size: 16px;
   font-weight: 600;
   color: var(--accent);
   background: var(--accent-soft);
   border: 1px solid var(--border);
   border-radius: var(--radius-md);
+  /* 연타 시 더블탭 확대/지연으로 탭이 무시되지 않게 */
+  touch-action: manipulation;
+  user-select: none;
   transition: background 0.15s ease;
 }
 .cd-next:hover {
