@@ -53,9 +53,22 @@
 
 .cd-stage {
   position: relative;
-  flex: 1;
-  margin: 28px 0;
-  min-height: 380px;
+  width: 100%;
+  /* 모바일: 단어 카드를 정사각형으로 */
+  aspect-ratio: 1 / 1;
+  margin: 24px 0;
+}
+
+/* 노트북 등 넓은 화면: 컨테이너를 키워 카드를 더 크게 */
+@media (min-width: 700px) {
+  .cd-wrap {
+    max-width: 620px;
+  }
+  .cd-stage {
+    /* 정사각형이 너무 커지지 않게 살짝 가로로 넓힌 큰 카드 */
+    aspect-ratio: 4 / 3;
+    margin: 36px 0;
+  }
 }
 
 .cd-done {
