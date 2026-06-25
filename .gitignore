@@ -14,6 +14,9 @@ dist-ssr/
 # vercel
 .vercel/
 
+# claude code 로컬 설정
+.claude/settings.local.json
+
 # capacitor / android 빌드물
 android/
 ios/

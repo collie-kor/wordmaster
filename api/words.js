@@ -1,8 +1,10 @@
 // Vercel 서버리스 함수 — 비밀번호 검증 후 해당 시험 단어만 반환.
 // 비밀번호는 절대 코드에 두지 않고 환경변수 APP_PASSWORD 로만 검증한다.
-// 단어 데이터(words.json)는 이 /api 폴더 안에 있어 클라이언트 번들에 노출되지 않는다.
+// 단어 데이터(data/words.json)는 이 /api 폴더 안에 있어 클라이언트 번들에 노출되지 않는다.
+// (api/ 바로 아래에 words.json 을 두면 Vercel이 words.js 와 같은 라우트로 보고 충돌하므로
+//  data/ 하위로 옮겨 둔다. 라우트 충돌 방지 + 여전히 서버 전용.)
 
-import allWords from './words.json' with { type: 'json' }
+import allWords from './data/words.json' with { type: 'json' }
 
 const VALID_EXAMS = new Set(['midterm', 'final'])
 
