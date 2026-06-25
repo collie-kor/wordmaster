@@ -20,23 +20,22 @@ function useFitText(text: string) {
     const fit = () => {
       el.style.fontSize = '' // CSS 기본(최대) 크기로 리셋 후 측정
       let size = parseFloat(getComputedStyle(el).fontSize)
+      let guard = 300
       // 한 줄(nowrap) 상태에서 폭을 넘으면 한 단계씩 축소(여백 포함)
-      while (el.scrollWidth > box.clientWidth - SAFETY && size > 14) {
+      while (el.scrollWidth > box.clientWidth - SAFETY && size > 12 && guard-- > 0) {
         size -= 1
         el.style.fontSize = `${size}px`
       }
     }
 
     fit()
-    // 레이아웃/웹폰트가 늦게 잡히는 경우 대비해 한 번 더 측정
-    const raf = requestAnimationFrame(fit)
+    // 카드 크기가 최종 확정되거나 바뀔 때마다(레이아웃 settle, 회전, 리사이즈)
+    // 다시 맞춘다. 초기 측정이 카드의 임시(넓은) 크기로 잡혀도 교정됨.
+    const ro = new ResizeObserver(fit)
+    ro.observe(box)
     document.fonts?.ready.then(fit).catch(() => {})
 
-    window.addEventListener('resize', fit)
-    return () => {
-      cancelAnimationFrame(raf)
-      window.removeEventListener('resize', fit)
-    }
+    return () => ro.disconnect()
   }, [text])
 
   return ref
@@ -100,9 +99,6 @@ export default function Flashcard({ word, depth, onNext }: Props) {
       dragElastic={0.6}
       dragConstraints={{ left: 0, right: 0, top: 0, bottom: 0 }}
       onDragEnd={handleDragEnd}
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      transition={{ duration: 0.2 }}
     >
       <div className="fc-word-box">
         <motion.span
