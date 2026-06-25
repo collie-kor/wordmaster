@@ -1,0 +1,90 @@
+/* 디자인 토큰 — 종이 단어장 느낌. 그라데이션/과한 그림자 금지. 포인트=짙은 청록. */
+
+:root {
+  /* 타이포 */
+  --font-sans: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+
+  /* 간격 / 모서리 */
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+
+  /* 모션 */
+  --ease-spring: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* 라이트(따뜻한 오프화이트) — 기본 */
+:root,
+[data-theme='light'] {
+  --bg: #f4f1ea;
+  --bg-elev: #fbf9f4;
+  --surface: #ffffff;
+  --border: #e2dccf;
+  --border-strong: #cfc7b5;
+
+  --text: #2a2723;
+  --text-muted: #6f685c;
+  --text-faint: #a39a89;
+
+  --accent: #1f6f6b;        /* 짙은 청록 */
+  --accent-strong: #185a57;
+  --accent-soft: #dfeceb;
+  --on-accent: #ffffff;
+
+  --danger: #b04b3c;
+
+  --shadow-card: 0 1px 2px rgba(40, 34, 24, 0.06),
+    0 8px 24px rgba(40, 34, 24, 0.08);
+  --overlay: rgba(40, 36, 30, 0.42);
+}
+
+/* 다크(깊은 무채색) */
+[data-theme='dark'] {
+  --bg: #1a1916;
+  --bg-elev: #211f1b;
+  --surface: #27241f;
+  --border: #38342d;
+  --border-strong: #4a4539;
+
+  --text: #ece7dd;
+  --text-muted: #a8a193;
+  --text-faint: #756e60;
+
+  --accent: #4fb3ad;        /* 다크에선 한 톤 밝은 청록 */
+  --accent-strong: #6cc6c0;
+  --accent-soft: #1e3736;
+  --on-accent: #10201f;
+
+  --danger: #d4796a;
+
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.3),
+    0 10px 28px rgba(0, 0, 0, 0.4);
+  --overlay: rgba(0, 0, 0, 0.6);
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overscroll-behavior: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}

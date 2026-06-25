@@ -1,0 +1,6722 @@
+[
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "international",
+  "pos": "a.",
+  "meaning": "국제의"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "challenge",
+  "pos": "n.",
+  "meaning": "도전"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "amount",
+  "pos": "n.",
+  "meaning": "양, 총액"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "object",
+  "pos": "n.",
+  "meaning": "물체, 목표"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "expense",
+  "pos": "n.",
+  "meaning": "비용"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "stress",
+  "pos": "n.",
+  "meaning": "스트레스, 강조"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "ride",
+  "pos": "v.",
+  "meaning": "(탈것을) 타다"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "average",
+  "pos": "n.",
+  "meaning": "평균"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "positive",
+  "pos": "a.",
+  "meaning": "긍정적인"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "social",
+  "pos": "a.",
+  "meaning": "사회의"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "improve",
+  "pos": "v.",
+  "meaning": "향상시키다"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "inform",
+  "pos": "v.",
+  "meaning": "알리다"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "develop",
+  "pos": "v.",
+  "meaning": "개발하다, 발달하다"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "cultural",
+  "pos": "a.",
+  "meaning": "문화의"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "recognize",
+  "pos": "v.",
+  "meaning": "인지하다, 인정하다"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "contain",
+  "pos": "v.",
+  "meaning": "포함하다, 함유하다"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "available",
+  "pos": "a.",
+  "meaning": "이용 가능한"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "comfort",
+  "pos": "n.",
+  "meaning": "위로, 편안"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "therefore",
+  "pos": "ad.",
+  "meaning": "그러므로"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "determine",
+  "pos": "v.",
+  "meaning": "결정하다"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "consume",
+  "pos": "v.",
+  "meaning": "소비하다"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "impress",
+  "pos": "v.",
+  "meaning": "깊은 인상을 주다"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "commodity",
+  "pos": "n.",
+  "meaning": "상품"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "encourage",
+  "pos": "v.",
+  "meaning": "격려하다, 촉구하다"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "relationship",
+  "pos": "n.",
+  "meaning": "관계"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "behave",
+  "pos": "v.",
+  "meaning": "행동하다"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "attitude",
+  "pos": "n.",
+  "meaning": "태도"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "employ",
+  "pos": "v.",
+  "meaning": "고용하다"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "individual",
+  "pos": "n.",
+  "meaning": "개인"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "provide",
+  "pos": "v.",
+  "meaning": "제공하다"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "volunteer",
+  "pos": "n.",
+  "meaning": "자원봉사자"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "require",
+  "pos": "v.",
+  "meaning": "요구하다, 필요로 하다"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "environment",
+  "pos": "n.",
+  "meaning": "환경"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "opportunity",
+  "pos": "n.",
+  "meaning": "기회"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "involve",
+  "pos": "v.",
+  "meaning": "포함하다, 관련시키다"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "local",
+  "pos": "a.",
+  "meaning": "지역의"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "audience",
+  "pos": "n.",
+  "meaning": "청중, 관객"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "research",
+  "pos": "n.",
+  "meaning": "연구"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "material",
+  "pos": "n.",
+  "meaning": "재료, 자료"
+ },
+ {
+  "day": 1,
+  "exam": "midterm",
+  "word": "influence",
+  "pos": "n.",
+  "meaning": "영향"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "level",
+  "pos": "n.",
+  "meaning": "수준"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "reduce",
+  "pos": "v.",
+  "meaning": "줄이다"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "novel",
+  "pos": "n.",
+  "meaning": "소설"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "immediate",
+  "pos": "a.",
+  "meaning": "즉각적인"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "discover",
+  "pos": "v.",
+  "meaning": "발견하다"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "economic",
+  "pos": "a.",
+  "meaning": "경제의"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "decide",
+  "pos": "v.",
+  "meaning": "결정하다"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "amaze",
+  "pos": "v.",
+  "meaning": "놀라게 하다"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "package",
+  "pos": "n.",
+  "meaning": "꾸러미, 포장"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "chemistry",
+  "pos": "n.",
+  "meaning": "화학"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "emotion",
+  "pos": "n.",
+  "meaning": "감정"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "affect",
+  "pos": "v.",
+  "meaning": "영향을 미치다"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "benefit",
+  "pos": "n.",
+  "meaning": "이익"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "focus",
+  "pos": "n.",
+  "meaning": "초점"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "thus",
+  "pos": "ad.",
+  "meaning": "그러므로"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "proud",
+  "pos": "a.",
+  "meaning": "자랑스러워하는"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "essence",
+  "pos": "n.",
+  "meaning": "본질"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "eventually",
+  "pos": "ad.",
+  "meaning": "결국"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "approach",
+  "pos": "v.",
+  "meaning": "접근하다"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "function",
+  "pos": "n.",
+  "meaning": "기능"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "define",
+  "pos": "v.",
+  "meaning": "정의하다"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "profession",
+  "pos": "n.",
+  "meaning": "전문직"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "solution",
+  "pos": "n.",
+  "meaning": "해결책"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "performance",
+  "pos": "n.",
+  "meaning": "공연, 성과"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "participate",
+  "pos": "v.",
+  "meaning": "참여하다"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "proper",
+  "pos": "a.",
+  "meaning": "적절한"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "despite",
+  "pos": "prep.",
+  "meaning": "~에도 불구하고"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "aware",
+  "pos": "a.",
+  "meaning": "알고 있는"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "occur",
+  "pos": "v.",
+  "meaning": "발생하다"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "issue",
+  "pos": "n.",
+  "meaning": "문제, 화제"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "secure",
+  "pos": "a.",
+  "meaning": "안전한"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "contact",
+  "pos": "n.",
+  "meaning": "접촉"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "cell",
+  "pos": "n.",
+  "meaning": "세포"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "demand",
+  "pos": "v.",
+  "meaning": "요구하다"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "generate",
+  "pos": "v.",
+  "meaning": "발생시키다"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "career",
+  "pos": "n.",
+  "meaning": "직업, 경력"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "background",
+  "pos": "n.",
+  "meaning": "배경"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "complex",
+  "pos": "a.",
+  "meaning": "복잡한"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "disappear",
+  "pos": "v.",
+  "meaning": "사라지다"
+ },
+ {
+  "day": 2,
+  "exam": "midterm",
+  "word": "detail",
+  "pos": "n.",
+  "meaning": "세부 사항"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "imagine",
+  "pos": "v.",
+  "meaning": "상상하다"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "balance",
+  "pos": "n.",
+  "meaning": "균형"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "exchange",
+  "pos": "v.",
+  "meaning": "교환하다"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "due",
+  "pos": "a.",
+  "meaning": "만기의, 예정된"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "account",
+  "pos": "n.",
+  "meaning": "계좌, 설명"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "desire",
+  "pos": "n.",
+  "meaning": "욕망"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "occasion",
+  "pos": "n.",
+  "meaning": "경우"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "mental",
+  "pos": "a.",
+  "meaning": "정신의"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "cause",
+  "pos": "n.",
+  "meaning": "원인"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "tend",
+  "pos": "v.",
+  "meaning": "~하는 경향이 있다"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "congratulate",
+  "pos": "v.",
+  "meaning": "축하하다"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "term",
+  "pos": "n.",
+  "meaning": "용어, 기간"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "follow",
+  "pos": "v.",
+  "meaning": "따라가다, 따르다"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "habitat",
+  "pos": "n.",
+  "meaning": "서식지"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "insist",
+  "pos": "v.",
+  "meaning": "주장하다"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "publish",
+  "pos": "v.",
+  "meaning": "출판하다, 발표하다"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "active",
+  "pos": "a.",
+  "meaning": "활동적인"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "lonely",
+  "pos": "a.",
+  "meaning": "외로운"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "expert",
+  "pos": "n.",
+  "meaning": "전문가"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "constant",
+  "pos": "a.",
+  "meaning": "일정한, 불변의"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "relieve",
+  "pos": "v.",
+  "meaning": "경감하다, 안도시키다"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "frequent",
+  "pos": "a.",
+  "meaning": "빈번한"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "extend",
+  "pos": "v.",
+  "meaning": "연장하다, 넓히다"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "steady",
+  "pos": "a.",
+  "meaning": "꾸준한, 안정된"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "equipment",
+  "pos": "n.",
+  "meaning": "장비"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "reflect",
+  "pos": "v.",
+  "meaning": "반영하다, 반사하다"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "dental",
+  "pos": "a.",
+  "meaning": "치아의"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "athletic",
+  "pos": "a.",
+  "meaning": "운동의"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "replace",
+  "pos": "v.",
+  "meaning": "대체하다"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "extreme",
+  "pos": "a.",
+  "meaning": "극단적인"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "genius",
+  "pos": "n.",
+  "meaning": "천재"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "recycle",
+  "pos": "v.",
+  "meaning": "재활용하다"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "politics",
+  "pos": "n.",
+  "meaning": "정치"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "decrease",
+  "pos": "v.",
+  "meaning": "감소하다"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "describe",
+  "pos": "v.",
+  "meaning": "묘사하다"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "negative",
+  "pos": "a.",
+  "meaning": "부정적인"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "factor",
+  "pos": "n.",
+  "meaning": "요인"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "compose",
+  "pos": "v.",
+  "meaning": "구성하다, 작곡하다"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "species",
+  "pos": "n.",
+  "meaning": "종(種)"
+ },
+ {
+  "day": 3,
+  "exam": "midterm",
+  "word": "biology",
+  "pos": "n.",
+  "meaning": "생물학"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "sight",
+  "pos": "n.",
+  "meaning": "시야, 광경"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "fuel",
+  "pos": "n.",
+  "meaning": "연료"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "capable",
+  "pos": "a.",
+  "meaning": "~할 수 있는, 유능한"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "shadow",
+  "pos": "n.",
+  "meaning": "그림자"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "permit",
+  "pos": "v.",
+  "meaning": "허락하다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "movement",
+  "pos": "n.",
+  "meaning": "움직임, 운동"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "injure",
+  "pos": "v.",
+  "meaning": "상처를 입히다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "possibility",
+  "pos": "n.",
+  "meaning": "가능성"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "flood",
+  "pos": "n.",
+  "meaning": "홍수"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "lack",
+  "pos": "n.",
+  "meaning": "부족"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "vary",
+  "pos": "v.",
+  "meaning": "다르다, 변하다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "firm",
+  "pos": "a.",
+  "meaning": "확고한, 단단한"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "construct",
+  "pos": "v.",
+  "meaning": "건설하다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "disabled",
+  "pos": "a.",
+  "meaning": "장애를 가진"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "apologize",
+  "pos": "v.",
+  "meaning": "사과하다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "concentrate",
+  "pos": "v.",
+  "meaning": "집중하다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "accompany",
+  "pos": "v.",
+  "meaning": "동반하다, 수반하다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "quantity",
+  "pos": "n.",
+  "meaning": "양(量)"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "predict",
+  "pos": "v.",
+  "meaning": "예측하다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "victim",
+  "pos": "n.",
+  "meaning": "희생자"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "manufacture",
+  "pos": "v.",
+  "meaning": "제조하다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "gradually",
+  "pos": "ad.",
+  "meaning": "점차, 서서히"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "delight",
+  "pos": "n.",
+  "meaning": "기쁨"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "threat",
+  "pos": "n.",
+  "meaning": "위협"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "confident",
+  "pos": "a.",
+  "meaning": "자신 있는"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "combine",
+  "pos": "v.",
+  "meaning": "결합시키다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "commerce",
+  "pos": "n.",
+  "meaning": "상업, 교역"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "access",
+  "pos": "n.",
+  "meaning": "접근, 이용"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "astronomy",
+  "pos": "n.",
+  "meaning": "천문학"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "entertain",
+  "pos": "v.",
+  "meaning": "즐겁게 하다, 접대하다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "response",
+  "pos": "n.",
+  "meaning": "응답, 반응"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "electricity",
+  "pos": "n.",
+  "meaning": "전기"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "emphasize",
+  "pos": "v.",
+  "meaning": "강조하다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "increase",
+  "pos": "v.",
+  "meaning": "증가하다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "frustrate",
+  "pos": "v.",
+  "meaning": "좌절시키다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "allow",
+  "pos": "v.",
+  "meaning": "허락하다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "pressure",
+  "pos": "n.",
+  "meaning": "압력, 압박"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "launch",
+  "pos": "v.",
+  "meaning": "시작하다, 발사하다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "announce",
+  "pos": "v.",
+  "meaning": "발표하다"
+ },
+ {
+  "day": 4,
+  "exam": "midterm",
+  "word": "gene",
+  "pos": "n.",
+  "meaning": "유전자"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "enable",
+  "pos": "v.",
+  "meaning": "가능하게 하다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "limit",
+  "pos": "v.",
+  "meaning": "제한하다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "electronic",
+  "pos": "a.",
+  "meaning": "전자의"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "claim",
+  "pos": "v.",
+  "meaning": "주장하다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "stranger",
+  "pos": "n.",
+  "meaning": "낯선 사람"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "labor",
+  "pos": "n.",
+  "meaning": "노동"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "moral",
+  "pos": "a.",
+  "meaning": "도덕적인"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "advantage",
+  "pos": "n.",
+  "meaning": "이점, 유리한 점"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "personality",
+  "pos": "n.",
+  "meaning": "성격, 개성"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "stock",
+  "pos": "n.",
+  "meaning": "재고품, 주식"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "feature",
+  "pos": "n.",
+  "meaning": "특징"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "confuse",
+  "pos": "v.",
+  "meaning": "혼동하다, 혼란시키다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "interrupt",
+  "pos": "v.",
+  "meaning": "방해하다, 중단하다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "instruction",
+  "pos": "n.",
+  "meaning": "지시, 설명"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "convince",
+  "pos": "v.",
+  "meaning": "확신시키다, 납득시키다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "remark",
+  "pos": "n.",
+  "meaning": "의견, 발언"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "struggle",
+  "pos": "n.",
+  "meaning": "투쟁, 노력"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "heal",
+  "pos": "v.",
+  "meaning": "치료하다, 낫게 하다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "variety",
+  "pos": "n.",
+  "meaning": "다양성"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "revolution",
+  "pos": "n.",
+  "meaning": "혁명"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "tide",
+  "pos": "n.",
+  "meaning": "조수"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "terrific",
+  "pos": "a.",
+  "meaning": "굉장한, 훌륭한"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "creature",
+  "pos": "n.",
+  "meaning": "생물"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "conclude",
+  "pos": "v.",
+  "meaning": "결론짓다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "resident",
+  "pos": "n.",
+  "meaning": "거주자"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "establish",
+  "pos": "v.",
+  "meaning": "설립하다, 확립하다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "disaster",
+  "pos": "n.",
+  "meaning": "재앙, 재난"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "reasonable",
+  "pos": "a.",
+  "meaning": "합리적인"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "analyze",
+  "pos": "v.",
+  "meaning": "분석하다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "attempt",
+  "pos": "v.",
+  "meaning": "시도하다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "absorb",
+  "pos": "v.",
+  "meaning": "흡수하다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "assist",
+  "pos": "v.",
+  "meaning": "돕다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "embarrassed",
+  "pos": "a.",
+  "meaning": "당황한"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "indicate",
+  "pos": "v.",
+  "meaning": "나타내다, 가리키다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "efficient",
+  "pos": "a.",
+  "meaning": "효율적인"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "obtain",
+  "pos": "v.",
+  "meaning": "얻다, 획득하다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "incredible",
+  "pos": "a.",
+  "meaning": "믿을 수 없는"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "donate",
+  "pos": "v.",
+  "meaning": "기부하다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "criticize",
+  "pos": "v.",
+  "meaning": "비난하다, 비평하다"
+ },
+ {
+  "day": 5,
+  "exam": "midterm",
+  "word": "assume",
+  "pos": "v.",
+  "meaning": "추정하다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "edge",
+  "pos": "n.",
+  "meaning": "가장자리"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "consider",
+  "pos": "v.",
+  "meaning": "고려하다, 숙고하다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "risk",
+  "pos": "n.",
+  "meaning": "위험"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "brief",
+  "pos": "a.",
+  "meaning": "간단한"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "alarm",
+  "pos": "n.",
+  "meaning": "경보, 놀람"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "route",
+  "pos": "n.",
+  "meaning": "길, 항로"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "length",
+  "pos": "n.",
+  "meaning": "길이"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "grain",
+  "pos": "n.",
+  "meaning": "곡물, 낟알"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "clue",
+  "pos": "n.",
+  "meaning": "단서, 실마리"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "recall",
+  "pos": "v.",
+  "meaning": "상기하다, 회수하다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "react",
+  "pos": "v.",
+  "meaning": "반응하다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "pose",
+  "pos": "v.",
+  "meaning": "자세를 취하다, 제기하다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "import",
+  "pos": "v.",
+  "meaning": "수입하다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "severe",
+  "pos": "a.",
+  "meaning": "심한, 엄격한"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "meaningful",
+  "pos": "a.",
+  "meaning": "의미 있는"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "independent",
+  "pos": "a.",
+  "meaning": "독립적인"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "deserve",
+  "pos": "v.",
+  "meaning": "~할 만하다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "violent",
+  "pos": "a.",
+  "meaning": "폭력적인, 난폭한"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "acquire",
+  "pos": "v.",
+  "meaning": "습득하다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "treatment",
+  "pos": "n.",
+  "meaning": "치료, 대우"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "salary",
+  "pos": "n.",
+  "meaning": "급여, 봉급"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "passion",
+  "pos": "n.",
+  "meaning": "열정"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "interact",
+  "pos": "v.",
+  "meaning": "상호 작용하다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "probable",
+  "pos": "a.",
+  "meaning": "개연성이 있는"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "psychology",
+  "pos": "n.",
+  "meaning": "심리학"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "depress",
+  "pos": "v.",
+  "meaning": "우울하게 하다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "specific",
+  "pos": "a.",
+  "meaning": "구체적인, 특정한"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "purchase",
+  "pos": "v.",
+  "meaning": "구매하다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "skip",
+  "pos": "v.",
+  "meaning": "거르다, 건너뛰다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "resource",
+  "pos": "n.",
+  "meaning": "자원"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "motivate",
+  "pos": "v.",
+  "meaning": "동기를 부여하다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "conscience",
+  "pos": "n.",
+  "meaning": "양심"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "qualify",
+  "pos": "v.",
+  "meaning": "자격을 얻다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "fascinate",
+  "pos": "v.",
+  "meaning": "매료시키다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "occupy",
+  "pos": "v.",
+  "meaning": "차지하다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "decade",
+  "pos": "n.",
+  "meaning": "10년"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "engage",
+  "pos": "v.",
+  "meaning": "관여하다, 약혼하다"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "theory",
+  "pos": "n.",
+  "meaning": "이론"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "poetry",
+  "pos": "n.",
+  "meaning": "시"
+ },
+ {
+  "day": 6,
+  "exam": "midterm",
+  "word": "observe",
+  "pos": "v.",
+  "meaning": "관찰하다, 준수하다"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "consult",
+  "pos": "v.",
+  "meaning": "상담하다, 참고하다"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "mere",
+  "pos": "a.",
+  "meaning": "단지 ~에 불과한"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "policy",
+  "pos": "n.",
+  "meaning": "정책"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "reward",
+  "pos": "n.",
+  "meaning": "보상"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "typical",
+  "pos": "a.",
+  "meaning": "전형적인"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "mood",
+  "pos": "n.",
+  "meaning": "기분, 분위기"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "refer",
+  "pos": "v.",
+  "meaning": "언급하다"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "comment",
+  "pos": "n.",
+  "meaning": "논평"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "journey",
+  "pos": "n.",
+  "meaning": "여행, 여정"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "plain",
+  "pos": "a.",
+  "meaning": "평범한, 명백한"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "survey",
+  "pos": "n.",
+  "meaning": "(설문) 조사"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "recover",
+  "pos": "v.",
+  "meaning": "회복하다"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "mass",
+  "pos": "n.",
+  "meaning": "덩어리, 대중"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "gap",
+  "pos": "n.",
+  "meaning": "격차, 틈"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "downtown",
+  "pos": "n.",
+  "meaning": "도심"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "wealth",
+  "pos": "n.",
+  "meaning": "부, 재산"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "series",
+  "pos": "n.",
+  "meaning": "연속, 시리즈"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "except",
+  "pos": "prep.",
+  "meaning": "~을 제외하고"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "operation",
+  "pos": "n.",
+  "meaning": "작업, 운영, 수술"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "rural",
+  "pos": "a.",
+  "meaning": "시골의"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "approve",
+  "pos": "v.",
+  "meaning": "승인하다, 찬성하다"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "crime",
+  "pos": "n.",
+  "meaning": "범죄"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "finance",
+  "pos": "n.",
+  "meaning": "재정, 금융"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "mechanic",
+  "pos": "n.",
+  "meaning": "정비공"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "leap",
+  "pos": "v.",
+  "meaning": "도약하다, 뛰다"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "absolute",
+  "pos": "a.",
+  "meaning": "절대적인, 완전한"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "attach",
+  "pos": "v.",
+  "meaning": "붙이다, 첨부하다"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "elementary",
+  "pos": "a.",
+  "meaning": "기초적인, 초보의"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "facility",
+  "pos": "n.",
+  "meaning": "시설"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "exhausted",
+  "pos": "a.",
+  "meaning": "기진맥진한"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "seek",
+  "pos": "v.",
+  "meaning": "추구하다, 찾다"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "committee",
+  "pos": "n.",
+  "meaning": "위원회"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "enormous",
+  "pos": "a.",
+  "meaning": "거대한, 엄청난"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "display",
+  "pos": "v.",
+  "meaning": "전시하다, 나타내다"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "survival",
+  "pos": "n.",
+  "meaning": "생존"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "surround",
+  "pos": "v.",
+  "meaning": "둘러싸다"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "arrange",
+  "pos": "v.",
+  "meaning": "준비하다, 정리하다"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "awful",
+  "pos": "a.",
+  "meaning": "끔찍한, 지독한"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "domestic",
+  "pos": "a.",
+  "meaning": "국내의, 가정의"
+ },
+ {
+  "day": 7,
+  "exam": "midterm",
+  "word": "accurate",
+  "pos": "a.",
+  "meaning": "정확한"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "target",
+  "pos": "n.",
+  "meaning": "목표, 표적"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "award",
+  "pos": "n.",
+  "meaning": "상"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "instant",
+  "pos": "a.",
+  "meaning": "즉각적인, 즉석의"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "muscle",
+  "pos": "n.",
+  "meaning": "근육"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "previous",
+  "pos": "a.",
+  "meaning": "이전의"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "admit",
+  "pos": "v.",
+  "meaning": "인정하다"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "aspect",
+  "pos": "n.",
+  "meaning": "측면, 양상"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "leisure",
+  "pos": "n.",
+  "meaning": "여가"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "slip",
+  "pos": "v.",
+  "meaning": "미끄러지다"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "delay",
+  "pos": "v.",
+  "meaning": "연기하다, 미루다"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "slight",
+  "pos": "a.",
+  "meaning": "약간의, 경미한"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "underground",
+  "pos": "a.",
+  "meaning": "지하의"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "label",
+  "pos": "n.",
+  "meaning": "꼬리표, 상표"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "file",
+  "pos": "n.",
+  "meaning": "서류철, 파일"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "produce",
+  "pos": "v.",
+  "meaning": "생산하다"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "reveal",
+  "pos": "v.",
+  "meaning": "드러내다, 폭로하다"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "preserve",
+  "pos": "v.",
+  "meaning": "보존하다, 보호하다"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "spot",
+  "pos": "n.",
+  "meaning": "지점, 얼룩"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "suppose",
+  "pos": "v.",
+  "meaning": "가정하다, 추측하다"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "ethic",
+  "pos": "n.",
+  "meaning": "윤리"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "owe",
+  "pos": "v.",
+  "meaning": "빚지고 있다"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "device",
+  "pos": "n.",
+  "meaning": "장치"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "witness",
+  "pos": "n.",
+  "meaning": "목격자, 증인"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "intend",
+  "pos": "v.",
+  "meaning": "의도하다"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "civilization",
+  "pos": "n.",
+  "meaning": "문명"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "borrow",
+  "pos": "v.",
+  "meaning": "빌리다"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "include",
+  "pos": "v.",
+  "meaning": "포함하다"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "unique",
+  "pos": "a.",
+  "meaning": "독특한, 유일한"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "atmosphere",
+  "pos": "n.",
+  "meaning": "대기, 분위기"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "urban",
+  "pos": "a.",
+  "meaning": "도시의"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "potential",
+  "pos": "a.",
+  "meaning": "잠재적인"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "decorate",
+  "pos": "v.",
+  "meaning": "장식하다"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "spark",
+  "pos": "n.",
+  "meaning": "불꽃"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "remain",
+  "pos": "v.",
+  "meaning": "남다, 여전히 ~이다"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "horizon",
+  "pos": "n.",
+  "meaning": "수평선, 지평선"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "adopt",
+  "pos": "v.",
+  "meaning": "채택하다, 입양하다"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "accomplish",
+  "pos": "v.",
+  "meaning": "성취하다, 이루다"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "row",
+  "pos": "n.",
+  "meaning": "열, 줄"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "consequence",
+  "pos": "n.",
+  "meaning": "결과"
+ },
+ {
+  "day": 8,
+  "exam": "midterm",
+  "word": "entitle",
+  "pos": "v.",
+  "meaning": "자격을 주다, 제목을 붙이다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "theme",
+  "pos": "n.",
+  "meaning": "주제"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "region",
+  "pos": "n.",
+  "meaning": "지역"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "differ",
+  "pos": "v.",
+  "meaning": "다르다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "vote",
+  "pos": "n.",
+  "meaning": "투표"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "seldom",
+  "pos": "ad.",
+  "meaning": "거의 ~않는"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "automatic",
+  "pos": "a.",
+  "meaning": "자동적인"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "rely",
+  "pos": "v.",
+  "meaning": "의지하다, 믿다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "memorize",
+  "pos": "v.",
+  "meaning": "암기하다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "emergency",
+  "pos": "n.",
+  "meaning": "비상 사태"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "standard",
+  "pos": "n.",
+  "meaning": "기준, 표준"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "basis",
+  "pos": "n.",
+  "meaning": "기초, 근거"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "principle",
+  "pos": "n.",
+  "meaning": "원칙, 원리"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "substance",
+  "pos": "n.",
+  "meaning": "물질, 본질"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "cooperate",
+  "pos": "v.",
+  "meaning": "협력하다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "fulfill",
+  "pos": "v.",
+  "meaning": "달성하다, 이행하다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "disappoint",
+  "pos": "v.",
+  "meaning": "실망시키다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "spread",
+  "pos": "v.",
+  "meaning": "퍼지다, 펼치다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "permanent",
+  "pos": "a.",
+  "meaning": "영구적인"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "empower",
+  "pos": "v.",
+  "meaning": "권한을 주다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "possess",
+  "pos": "v.",
+  "meaning": "소유하다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "grant",
+  "pos": "v.",
+  "meaning": "승인하다, 수여하다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "impact",
+  "pos": "n.",
+  "meaning": "영향, 충격"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "encounter",
+  "pos": "v.",
+  "meaning": "우연히 만나다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "addict",
+  "pos": "n.",
+  "meaning": "중독자"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "evaluate",
+  "pos": "v.",
+  "meaning": "평가하다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "realistic",
+  "pos": "a.",
+  "meaning": "현실적인"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "physics",
+  "pos": "n.",
+  "meaning": "물리학"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "application",
+  "pos": "n.",
+  "meaning": "적용, 신청"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "artificial",
+  "pos": "a.",
+  "meaning": "인공적인"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "guarantee",
+  "pos": "v.",
+  "meaning": "보증하다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "scale",
+  "pos": "n.",
+  "meaning": "규모, 저울"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "request",
+  "pos": "n.",
+  "meaning": "요청"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "evident",
+  "pos": "a.",
+  "meaning": "명백한"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "resist",
+  "pos": "v.",
+  "meaning": "저항하다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "tremendous",
+  "pos": "a.",
+  "meaning": "엄청난"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "identify",
+  "pos": "v.",
+  "meaning": "확인하다, 식별하다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "secretary",
+  "pos": "n.",
+  "meaning": "비서, 장관"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "rid",
+  "pos": "v.",
+  "meaning": "제거하다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "emit",
+  "pos": "v.",
+  "meaning": "방출하다"
+ },
+ {
+  "day": 9,
+  "exam": "midterm",
+  "word": "stink",
+  "pos": "v.",
+  "meaning": "악취를 풍기다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "slave",
+  "pos": "n.",
+  "meaning": "노예"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "hesitate",
+  "pos": "v.",
+  "meaning": "망설이다, 주저하다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "adventure",
+  "pos": "n.",
+  "meaning": "모험"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "harm",
+  "pos": "n.",
+  "meaning": "손해, 해"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "cabin",
+  "pos": "n.",
+  "meaning": "오두막집, 객실"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "rank",
+  "pos": "n.",
+  "meaning": "등급, 지위"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "ray",
+  "pos": "n.",
+  "meaning": "광선"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "envy",
+  "pos": "n.",
+  "meaning": "부러움"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "offer",
+  "pos": "v.",
+  "meaning": "제공하다, 제안하다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "entrance",
+  "pos": "n.",
+  "meaning": "입구, 입장"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "curve",
+  "pos": "n.",
+  "meaning": "곡선"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "symphony",
+  "pos": "n.",
+  "meaning": "교향곡"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "frighten",
+  "pos": "v.",
+  "meaning": "겁먹게 하다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "perceive",
+  "pos": "v.",
+  "meaning": "인식하다, 인지하다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "appeal",
+  "pos": "v.",
+  "meaning": "호소하다, 관심을 끌다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "resolve",
+  "pos": "v.",
+  "meaning": "해결하다, 결심하다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "suitable",
+  "pos": "a.",
+  "meaning": "적합한, 적절한"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "autograph",
+  "pos": "n.",
+  "meaning": "(유명인의) 서명"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "identical",
+  "pos": "a.",
+  "meaning": "동일한"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "rub",
+  "pos": "v.",
+  "meaning": "문지르다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "recite",
+  "pos": "v.",
+  "meaning": "암송하다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "annoy",
+  "pos": "v.",
+  "meaning": "괴롭히다, 귀찮게 하다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "estimate",
+  "pos": "v.",
+  "meaning": "추정하다, 평가하다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "restrict",
+  "pos": "v.",
+  "meaning": "제한하다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "location",
+  "pos": "n.",
+  "meaning": "위치, 장소"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "retire",
+  "pos": "v.",
+  "meaning": "은퇴하다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "distribute",
+  "pos": "v.",
+  "meaning": "분배하다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "refuse",
+  "pos": "v.",
+  "meaning": "거절하다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "release",
+  "pos": "v.",
+  "meaning": "방출하다, 발표하다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "innocence",
+  "pos": "n.",
+  "meaning": "결백, 무죄"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "interpret",
+  "pos": "v.",
+  "meaning": "해석하다, 통역하다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "corporate",
+  "pos": "a.",
+  "meaning": "회사의, 법인의"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "investment",
+  "pos": "n.",
+  "meaning": "투자"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "persuade",
+  "pos": "v.",
+  "meaning": "설득하다"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "organism",
+  "pos": "n.",
+  "meaning": "유기체, 생물"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "circumstance",
+  "pos": "n.",
+  "meaning": "상황, 환경"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "rainforest",
+  "pos": "n.",
+  "meaning": "열대 우림"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "gear",
+  "pos": "n.",
+  "meaning": "장비, 기어"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "alternative",
+  "pos": "n.",
+  "meaning": "대안"
+ },
+ {
+  "day": 10,
+  "exam": "midterm",
+  "word": "authority",
+  "pos": "n.",
+  "meaning": "권위, 당국"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "infant",
+  "pos": "n.",
+  "meaning": "유아"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "marriage",
+  "pos": "n.",
+  "meaning": "결혼"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "swing",
+  "pos": "v.",
+  "meaning": "흔들다, 진동하다"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "receive",
+  "pos": "v.",
+  "meaning": "받다"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "household",
+  "pos": "n.",
+  "meaning": "가정"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "lately",
+  "pos": "ad.",
+  "meaning": "최근에"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "accept",
+  "pos": "v.",
+  "meaning": "받아들이다"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "pure",
+  "pos": "a.",
+  "meaning": "순수한"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "broad",
+  "pos": "a.",
+  "meaning": "넓은, 광범위한"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "depend",
+  "pos": "v.",
+  "meaning": "의지하다"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "refund",
+  "pos": "n.",
+  "meaning": "환불"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "compete",
+  "pos": "v.",
+  "meaning": "경쟁하다"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "continue",
+  "pos": "v.",
+  "meaning": "계속하다"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "whereas",
+  "pos": "conj.",
+  "meaning": "~인 반면에"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "sum",
+  "pos": "n.",
+  "meaning": "합계, 총합"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "tone",
+  "pos": "n.",
+  "meaning": "어조, 음색"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "isolate",
+  "pos": "v.",
+  "meaning": "고립시키다"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "destination",
+  "pos": "n.",
+  "meaning": "목적지"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "commit",
+  "pos": "v.",
+  "meaning": "저지르다, 전념하다"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "genuine",
+  "pos": "a.",
+  "meaning": "진짜의, 성실한"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "evolution",
+  "pos": "n.",
+  "meaning": "진화"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "ashamed",
+  "pos": "a.",
+  "meaning": "부끄러워하는"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "charity",
+  "pos": "n.",
+  "meaning": "자선"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "conserve",
+  "pos": "v.",
+  "meaning": "보존하다"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "institute",
+  "pos": "n.",
+  "meaning": "연구소, 협회"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "rescue",
+  "pos": "v.",
+  "meaning": "구조하다"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "treat",
+  "pos": "v.",
+  "meaning": "대우하다, 치료하다"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "dense",
+  "pos": "a.",
+  "meaning": "조밀한, 밀집한"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "reproduce",
+  "pos": "v.",
+  "meaning": "번식하다, 복제하다"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "hire",
+  "pos": "v.",
+  "meaning": "고용하다"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "military",
+  "pos": "a.",
+  "meaning": "군대의"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "logic",
+  "pos": "n.",
+  "meaning": "논리"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "expand",
+  "pos": "v.",
+  "meaning": "확장하다"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "ignorant",
+  "pos": "a.",
+  "meaning": "무지한, 모르는"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "concept",
+  "pos": "n.",
+  "meaning": "개념"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "status",
+  "pos": "n.",
+  "meaning": "지위, 상태"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "calculate",
+  "pos": "v.",
+  "meaning": "계산하다"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "sensible",
+  "pos": "a.",
+  "meaning": "분별 있는, 현명한"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "extinct",
+  "pos": "a.",
+  "meaning": "멸종된"
+ },
+ {
+  "day": 11,
+  "exam": "midterm",
+  "word": "gravity",
+  "pos": "n.",
+  "meaning": "중력"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "oppose",
+  "pos": "v.",
+  "meaning": "반대하다"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "faith",
+  "pos": "n.",
+  "meaning": "믿음, 신념"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "legal",
+  "pos": "a.",
+  "meaning": "합법적인, 법률의"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "annual",
+  "pos": "a.",
+  "meaning": "연례의, 매년의"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "brilliant",
+  "pos": "a.",
+  "meaning": "훌륭한, 명석한"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "return",
+  "pos": "v.",
+  "meaning": "돌아오다, 돌려주다"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "aim",
+  "pos": "n.",
+  "meaning": "목표"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "spare",
+  "pos": "a.",
+  "meaning": "여분의"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "universal",
+  "pos": "a.",
+  "meaning": "보편적인"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "awake",
+  "pos": "a.",
+  "meaning": "깨어 있는"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "visual",
+  "pos": "a.",
+  "meaning": "시각의"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "remote",
+  "pos": "a.",
+  "meaning": "멀리 떨어진"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "eager",
+  "pos": "a.",
+  "meaning": "갈망하는"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "demonstrate",
+  "pos": "v.",
+  "meaning": "입증하다, 시위하다"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "sculpture",
+  "pos": "n.",
+  "meaning": "조각"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "democracy",
+  "pos": "n.",
+  "meaning": "민주주의"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "departure",
+  "pos": "n.",
+  "meaning": "출발"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "invitation",
+  "pos": "n.",
+  "meaning": "초대"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "descend",
+  "pos": "v.",
+  "meaning": "내려오다"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "rite",
+  "pos": "n.",
+  "meaning": "(종교적) 의식"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "mature",
+  "pos": "a.",
+  "meaning": "성숙한, 익은"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "component",
+  "pos": "n.",
+  "meaning": "구성 요소"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "leak",
+  "pos": "v.",
+  "meaning": "새다, 누설하다"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "desperate",
+  "pos": "a.",
+  "meaning": "필사적인, 절망적인"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "formal",
+  "pos": "a.",
+  "meaning": "공식적인, 정식의"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "apparent",
+  "pos": "a.",
+  "meaning": "명백한, 분명한"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "portion",
+  "pos": "n.",
+  "meaning": "일부, 부분"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "current",
+  "pos": "a.",
+  "meaning": "현재의"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "precise",
+  "pos": "a.",
+  "meaning": "정확한"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "cancel",
+  "pos": "v.",
+  "meaning": "취소하다"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "companion",
+  "pos": "n.",
+  "meaning": "동반자, 동료"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "trend",
+  "pos": "n.",
+  "meaning": "추세, 경향"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "poverty",
+  "pos": "n.",
+  "meaning": "빈곤, 가난"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "distinct",
+  "pos": "a.",
+  "meaning": "뚜렷한, 별개의"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "offend",
+  "pos": "v.",
+  "meaning": "기분을 상하게 하다"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "surface",
+  "pos": "n.",
+  "meaning": "표면"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "transfer",
+  "pos": "v.",
+  "meaning": "옮기다, 이동하다"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "trap",
+  "pos": "n.",
+  "meaning": "함정, 덫"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "agriculture",
+  "pos": "n.",
+  "meaning": "농업"
+ },
+ {
+  "day": 12,
+  "exam": "midterm",
+  "word": "particle",
+  "pos": "n.",
+  "meaning": "입자, 극소량"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "generous",
+  "pos": "a.",
+  "meaning": "관대한, 넉넉한"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "fiction",
+  "pos": "n.",
+  "meaning": "소설, 허구"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "evil",
+  "pos": "a.",
+  "meaning": "사악한"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "civil",
+  "pos": "a.",
+  "meaning": "시민의, 민간의"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "minor",
+  "pos": "a.",
+  "meaning": "사소한, 소수의"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "prove",
+  "pos": "v.",
+  "meaning": "입증하다, 판명되다"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "insure",
+  "pos": "v.",
+  "meaning": "보험에 들다"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "shortage",
+  "pos": "n.",
+  "meaning": "부족"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "regulate",
+  "pos": "v.",
+  "meaning": "규제하다, 조절하다"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "vigor",
+  "pos": "n.",
+  "meaning": "활력"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "ultimate",
+  "pos": "a.",
+  "meaning": "궁극적인, 최후의"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "assign",
+  "pos": "v.",
+  "meaning": "할당하다, 지정하다"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "duty",
+  "pos": "n.",
+  "meaning": "의무, 관세"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "digest",
+  "pos": "v.",
+  "meaning": "소화하다"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "ruin",
+  "pos": "v.",
+  "meaning": "망치다, 파멸시키다"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "worship",
+  "pos": "v.",
+  "meaning": "숭배하다, 예배하다"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "thrive",
+  "pos": "v.",
+  "meaning": "번영하다, 잘되다"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "complicated",
+  "pos": "a.",
+  "meaning": "복잡한"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "stream",
+  "pos": "n.",
+  "meaning": "흐름, 개울"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "insight",
+  "pos": "n.",
+  "meaning": "통찰력"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "utility",
+  "pos": "n.",
+  "meaning": "공익사업, 유용성"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "laboratory",
+  "pos": "n.",
+  "meaning": "실험실"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "fancy",
+  "pos": "a.",
+  "meaning": "화려한"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "bet",
+  "pos": "v.",
+  "meaning": "돈을 걸다"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "royal",
+  "pos": "a.",
+  "meaning": "왕의, 왕족의"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "lecture",
+  "pos": "n.",
+  "meaning": "강의"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "achieve",
+  "pos": "v.",
+  "meaning": "달성하다, 이루다"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "laundry",
+  "pos": "n.",
+  "meaning": "세탁물"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "client",
+  "pos": "n.",
+  "meaning": "고객, 의뢰인"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "forbid",
+  "pos": "v.",
+  "meaning": "금지하다"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "transform",
+  "pos": "v.",
+  "meaning": "변형시키다"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "afterward",
+  "pos": "ad.",
+  "meaning": "나중에, 그 후에"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "option",
+  "pos": "n.",
+  "meaning": "선택, 선택권"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "mindset",
+  "pos": "n.",
+  "meaning": "사고방식, 마음가짐"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "scarce",
+  "pos": "a.",
+  "meaning": "부족한, 드문"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "pause",
+  "pos": "n.",
+  "meaning": "중단, 멈춤"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "chief",
+  "pos": "a.",
+  "meaning": "주요한"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "organize",
+  "pos": "v.",
+  "meaning": "조직하다, 정리하다"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "surgery",
+  "pos": "n.",
+  "meaning": "수술"
+ },
+ {
+  "day": 13,
+  "exam": "final",
+  "word": "discipline",
+  "pos": "n.",
+  "meaning": "규율, 훈련"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "grab",
+  "pos": "v.",
+  "meaning": "움켜쥐다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "prior",
+  "pos": "a.",
+  "meaning": "이전의, 우선하는"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "dine",
+  "pos": "v.",
+  "meaning": "식사하다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "prey",
+  "pos": "n.",
+  "meaning": "먹이, 희생자"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "explain",
+  "pos": "v.",
+  "meaning": "설명하다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "spice",
+  "pos": "n.",
+  "meaning": "향신료, 양념"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "cottage",
+  "pos": "n.",
+  "meaning": "오두막집"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "correct",
+  "pos": "a.",
+  "meaning": "올바른, 정확한"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "apply",
+  "pos": "v.",
+  "meaning": "적용하다, 지원하다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "fuse",
+  "pos": "v.",
+  "meaning": "융합하다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "tolerate",
+  "pos": "v.",
+  "meaning": "참다, 용인하다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "measure",
+  "pos": "v.",
+  "meaning": "측정하다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "contemporary",
+  "pos": "a.",
+  "meaning": "현대의, 동시대의"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "literally",
+  "pos": "ad.",
+  "meaning": "문자 그대로"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "defeat",
+  "pos": "v.",
+  "meaning": "패배시키다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "yield",
+  "pos": "v.",
+  "meaning": "생산하다, 굴복하다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "suspect",
+  "pos": "v.",
+  "meaning": "의심하다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "imitate",
+  "pos": "v.",
+  "meaning": "모방하다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "inspire",
+  "pos": "v.",
+  "meaning": "영감을 주다, 고무시키다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "confirm",
+  "pos": "v.",
+  "meaning": "확인하다, 입증하다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "bless",
+  "pos": "v.",
+  "meaning": "축복하다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "appropriate",
+  "pos": "a.",
+  "meaning": "적절한"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "document",
+  "pos": "n.",
+  "meaning": "문서, 서류"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "resort",
+  "pos": "n.",
+  "meaning": "휴양지"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "triumph",
+  "pos": "n.",
+  "meaning": "승리"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "aside",
+  "pos": "ad.",
+  "meaning": "한쪽으로, 제쳐 두고"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "propose",
+  "pos": "v.",
+  "meaning": "제안하다, 청혼하다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "decline",
+  "pos": "v.",
+  "meaning": "감소하다, 거절하다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "pupil",
+  "pos": "n.",
+  "meaning": "학생, 눈동자"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "illustrate",
+  "pos": "v.",
+  "meaning": "설명하다, 삽화를 넣다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "alien",
+  "pos": "n.",
+  "meaning": "외계인, 외국인"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "wreck",
+  "pos": "n.",
+  "meaning": "난파선, 사고"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "scholarship",
+  "pos": "n.",
+  "meaning": "장학금, 학문"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "abstract",
+  "pos": "a.",
+  "meaning": "추상적인"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "intellect",
+  "pos": "n.",
+  "meaning": "지성"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "prohibit",
+  "pos": "v.",
+  "meaning": "금지하다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "necessity",
+  "pos": "n.",
+  "meaning": "필요, 필수품"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "execute",
+  "pos": "v.",
+  "meaning": "실행하다, 처형하다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "tempt",
+  "pos": "v.",
+  "meaning": "유혹하다"
+ },
+ {
+  "day": 14,
+  "exam": "final",
+  "word": "install",
+  "pos": "v.",
+  "meaning": "설치하다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "seal",
+  "pos": "n.",
+  "meaning": "봉인, 도장"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "appear",
+  "pos": "v.",
+  "meaning": "나타나다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "agency",
+  "pos": "n.",
+  "meaning": "대리점, 기관"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "address",
+  "pos": "v.",
+  "meaning": "연설하다, 다루다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "modest",
+  "pos": "a.",
+  "meaning": "겸손한, 알맞은"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "compare",
+  "pos": "v.",
+  "meaning": "비교하다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "inner",
+  "pos": "a.",
+  "meaning": "내부의"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "receipt",
+  "pos": "n.",
+  "meaning": "영수증"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "split",
+  "pos": "v.",
+  "meaning": "쪼개다, 분열시키다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "contract",
+  "pos": "n.",
+  "meaning": "계약"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "register",
+  "pos": "v.",
+  "meaning": "등록하다, 기재하다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "conquer",
+  "pos": "v.",
+  "meaning": "정복하다, 극복하다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "virtual",
+  "pos": "a.",
+  "meaning": "가상의, 사실상의"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "attack",
+  "pos": "v.",
+  "meaning": "공격하다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "nevertheless",
+  "pos": "ad.",
+  "meaning": "그럼에도 불구하고"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "enroll",
+  "pos": "v.",
+  "meaning": "등록하다, 입학하다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "supervise",
+  "pos": "v.",
+  "meaning": "감독하다, 관리하다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "nutrition",
+  "pos": "n.",
+  "meaning": "영양"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "priest",
+  "pos": "n.",
+  "meaning": "성직자"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "impose",
+  "pos": "v.",
+  "meaning": "부과하다, 강요하다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "debate",
+  "pos": "n.",
+  "meaning": "토론"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "contrary",
+  "pos": "a.",
+  "meaning": "반대의"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "arise",
+  "pos": "v.",
+  "meaning": "발생하다, 생겨나다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "trait",
+  "pos": "n.",
+  "meaning": "특성, 특징"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "greed",
+  "pos": "n.",
+  "meaning": "탐욕"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "ensure",
+  "pos": "v.",
+  "meaning": "보장하다, 확실하게 하다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "harsh",
+  "pos": "a.",
+  "meaning": "가혹한, 거친"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "retail",
+  "pos": "n.",
+  "meaning": "소매"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "elegant",
+  "pos": "a.",
+  "meaning": "우아한, 고상한"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "defect",
+  "pos": "n.",
+  "meaning": "결점"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "commute",
+  "pos": "v.",
+  "meaning": "통근하다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "masterpiece",
+  "pos": "n.",
+  "meaning": "명작, 대작"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "earthquake",
+  "pos": "n.",
+  "meaning": "지진"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "drought",
+  "pos": "n.",
+  "meaning": "가뭄"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "extraordinary",
+  "pos": "a.",
+  "meaning": "비범한, 놀라운"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "inhabit",
+  "pos": "v.",
+  "meaning": "거주하다, 살다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "abandon",
+  "pos": "v.",
+  "meaning": "버리다, 포기하다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "criteria",
+  "pos": "n.",
+  "meaning": "기준, 표준"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "nurture",
+  "pos": "v.",
+  "meaning": "양육하다, 교육하다"
+ },
+ {
+  "day": 15,
+  "exam": "final",
+  "word": "prejudice",
+  "pos": "n.",
+  "meaning": "편견, 선입관"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "arctic",
+  "pos": "a.",
+  "meaning": "북극의"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "crew",
+  "pos": "n.",
+  "meaning": "승무원"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "routine",
+  "pos": "n.",
+  "meaning": "일과, 일상적인 일"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "deny",
+  "pos": "v.",
+  "meaning": "부인하다, 거절하다"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "capture",
+  "pos": "v.",
+  "meaning": "붙잡다, 포획하다"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "fold",
+  "pos": "v.",
+  "meaning": "접다, 포개다"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "general",
+  "pos": "a.",
+  "meaning": "일반적인"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "usual",
+  "pos": "a.",
+  "meaning": "보통의, 통상의"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "figure",
+  "pos": "n.",
+  "meaning": "수치, 형체"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "neighbor",
+  "pos": "n.",
+  "meaning": "이웃"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "dim",
+  "pos": "a.",
+  "meaning": "흐릿한, 어두운"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "council",
+  "pos": "n.",
+  "meaning": "의회, 협의회"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "scream",
+  "pos": "v.",
+  "meaning": "비명을 지르다"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "trial",
+  "pos": "n.",
+  "meaning": "재판, 시도"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "tribe",
+  "pos": "n.",
+  "meaning": "부족, 종족"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "sensitive",
+  "pos": "a.",
+  "meaning": "민감한, 예민한"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "cruel",
+  "pos": "a.",
+  "meaning": "잔인한"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "welfare",
+  "pos": "n.",
+  "meaning": "복지"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "profound",
+  "pos": "a.",
+  "meaning": "심오한, 깊은"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "prevail",
+  "pos": "v.",
+  "meaning": "만연하다, 우세하다"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "temporary",
+  "pos": "a.",
+  "meaning": "일시적인, 임시의"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "distinguish",
+  "pos": "v.",
+  "meaning": "구별하다, 식별하다"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "associate",
+  "pos": "v.",
+  "meaning": "연관 짓다, 교제하다"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "barrier",
+  "pos": "n.",
+  "meaning": "장벽, 장애물"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "interfere",
+  "pos": "v.",
+  "meaning": "간섭하다, 방해하다"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "errand",
+  "pos": "n.",
+  "meaning": "심부름"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "irritate",
+  "pos": "v.",
+  "meaning": "짜증 나게 하다"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "statement",
+  "pos": "n.",
+  "meaning": "진술, 성명서"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "glance",
+  "pos": "v.",
+  "meaning": "흘긋 보다"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "tradition",
+  "pos": "n.",
+  "meaning": "전통, 관습"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "tragic",
+  "pos": "a.",
+  "meaning": "비극적인, 비참한"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "swallow",
+  "pos": "v.",
+  "meaning": "삼키다"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "eliminate",
+  "pos": "v.",
+  "meaning": "제거하다, 배제하다"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "spill",
+  "pos": "v.",
+  "meaning": "엎지르다, 흘리다"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "glare",
+  "pos": "v.",
+  "meaning": "노려보다, 눈부시게 빛나다"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "deprive",
+  "pos": "v.",
+  "meaning": "박탈하다"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "adolescent",
+  "pos": "n.",
+  "meaning": "청소년"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "pedestrian",
+  "pos": "n.",
+  "meaning": "보행자"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "dilute",
+  "pos": "v.",
+  "meaning": "희석시키다"
+ },
+ {
+  "day": 16,
+  "exam": "final",
+  "word": "conscious",
+  "pos": "a.",
+  "meaning": "의식하고 있는"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "fame",
+  "pos": "n.",
+  "meaning": "명성"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "result",
+  "pos": "n.",
+  "meaning": "결과"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "atom",
+  "pos": "n.",
+  "meaning": "원자"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "weapon",
+  "pos": "n.",
+  "meaning": "무기"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "crop",
+  "pos": "n.",
+  "meaning": "작물, 수확"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "shift",
+  "pos": "n.",
+  "meaning": "변화, 이동, 교대"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "endanger",
+  "pos": "v.",
+  "meaning": "위험에 빠뜨리다"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "oral",
+  "pos": "a.",
+  "meaning": "구두의, 구술의"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "pile",
+  "pos": "n.",
+  "meaning": "더미"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "fade",
+  "pos": "v.",
+  "meaning": "희미해지다, 사라지다"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "renew",
+  "pos": "v.",
+  "meaning": "갱신하다, 새롭게 하다"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "realize",
+  "pos": "v.",
+  "meaning": "깨닫다, 실현하다"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "foretell",
+  "pos": "v.",
+  "meaning": "예언하다, 예고하다"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "debt",
+  "pos": "n.",
+  "meaning": "빚, 부채"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "enrich",
+  "pos": "v.",
+  "meaning": "풍요롭게 하다"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "protect",
+  "pos": "v.",
+  "meaning": "보호하다"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "furthermore",
+  "pos": "ad.",
+  "meaning": "게다가, 더욱이"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "wonder",
+  "pos": "v.",
+  "meaning": "궁금해하다, 놀라다"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "ethnic",
+  "pos": "a.",
+  "meaning": "민족의, 인종의"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "infection",
+  "pos": "n.",
+  "meaning": "감염, 전염"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "command",
+  "pos": "n.",
+  "meaning": "명령, 지배력"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "repair",
+  "pos": "v.",
+  "meaning": "수리하다, 수선하다"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "widespread",
+  "pos": "a.",
+  "meaning": "널리 퍼진"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "germ",
+  "pos": "n.",
+  "meaning": "세균, 미생물"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "adjust",
+  "pos": "v.",
+  "meaning": "조절하다, 조정하다"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "candidate",
+  "pos": "n.",
+  "meaning": "후보자"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "ecosystem",
+  "pos": "n.",
+  "meaning": "생태계"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "strict",
+  "pos": "a.",
+  "meaning": "엄격한, 엄한"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "drastic",
+  "pos": "a.",
+  "meaning": "과감한, 격렬한"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "noble",
+  "pos": "a.",
+  "meaning": "고결한, 귀족의"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "peer",
+  "pos": "n.",
+  "meaning": "또래, 동료"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "wholesale",
+  "pos": "n.",
+  "meaning": "도매"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "ideal",
+  "pos": "a.",
+  "meaning": "이상적인"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "appliance",
+  "pos": "n.",
+  "meaning": "가전제품, 기구"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "excess",
+  "pos": "n.",
+  "meaning": "초과, 과도함"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "progress",
+  "pos": "n.",
+  "meaning": "진보, 진전"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "representative",
+  "pos": "n.",
+  "meaning": "대표, 국회의원"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "stiffen",
+  "pos": "v.",
+  "meaning": "굳어지다"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "reinforcement",
+  "pos": "n.",
+  "meaning": "강화, 보강"
+ },
+ {
+  "day": 17,
+  "exam": "final",
+  "word": "drift",
+  "pos": "v.",
+  "meaning": "표류하다"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "review",
+  "pos": "n.",
+  "meaning": "검토, 논평"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "beard",
+  "pos": "n.",
+  "meaning": "턱수염"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "bump",
+  "pos": "v.",
+  "meaning": "부딪치다"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "exist",
+  "pos": "v.",
+  "meaning": "존재하다"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "ceiling",
+  "pos": "n.",
+  "meaning": "천장, 상한선"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "raft",
+  "pos": "n.",
+  "meaning": "뗏목, 고무보트"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "erase",
+  "pos": "v.",
+  "meaning": "지우다, 없애다"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "gamble",
+  "pos": "v.",
+  "meaning": "도박하다, 모험하다"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "haste",
+  "pos": "n.",
+  "meaning": "서두름, 급함"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "dynasty",
+  "pos": "n.",
+  "meaning": "왕조, 왕가"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "dedicate",
+  "pos": "v.",
+  "meaning": "바치다, 헌납하다"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "thread",
+  "pos": "n.",
+  "meaning": "실"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "outstanding",
+  "pos": "a.",
+  "meaning": "뛰어난, 두드러진"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "valid",
+  "pos": "a.",
+  "meaning": "유효한, 타당한"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "temper",
+  "pos": "n.",
+  "meaning": "성질, 기질"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "scatter",
+  "pos": "v.",
+  "meaning": "흩뿌리다, 분산시키다"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "hardship",
+  "pos": "n.",
+  "meaning": "고난, 어려움"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "cease",
+  "pos": "v.",
+  "meaning": "중지하다, 그만두다"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "undoubtedly",
+  "pos": "ad.",
+  "meaning": "의심할 여지 없이"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "doom",
+  "pos": "n.",
+  "meaning": "파멸, 운명"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "entire",
+  "pos": "a.",
+  "meaning": "전체의, 완전한"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "mislead",
+  "pos": "v.",
+  "meaning": "오해하게 하다"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "escape",
+  "pos": "v.",
+  "meaning": "탈출하다, 벗어나다"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "solar",
+  "pos": "a.",
+  "meaning": "태양의"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "unify",
+  "pos": "v.",
+  "meaning": "통합하다, 통일하다"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "perspective",
+  "pos": "n.",
+  "meaning": "관점, 견해"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "confront",
+  "pos": "v.",
+  "meaning": "직면하다"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "crush",
+  "pos": "v.",
+  "meaning": "으깨다"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "craft",
+  "pos": "n.",
+  "meaning": "공예, 기술"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "initial",
+  "pos": "a.",
+  "meaning": "초기의, 처음의"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "genre",
+  "pos": "n.",
+  "meaning": "장르, 유형"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "combat",
+  "pos": "n.",
+  "meaning": "전투"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "soak",
+  "pos": "v.",
+  "meaning": "적시다, 젖다"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "dispose",
+  "pos": "v.",
+  "meaning": "처리하다, 배치하다"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "sink",
+  "pos": "v.",
+  "meaning": "가라앉다"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "primary",
+  "pos": "a.",
+  "meaning": "주요한, 최초의"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "minimal",
+  "pos": "a.",
+  "meaning": "최소의"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "destiny",
+  "pos": "n.",
+  "meaning": "운명"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "optimal",
+  "pos": "a.",
+  "meaning": "최적의, 최상의"
+ },
+ {
+  "day": 18,
+  "exam": "final",
+  "word": "hydrogen",
+  "pos": "n.",
+  "meaning": "수소"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "flow",
+  "pos": "v.",
+  "meaning": "흐르다"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "scratch",
+  "pos": "v.",
+  "meaning": "긁다, 할퀴다"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "budget",
+  "pos": "n.",
+  "meaning": "예산"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "fragile",
+  "pos": "a.",
+  "meaning": "부서지기 쉬운"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "profit",
+  "pos": "n.",
+  "meaning": "이익, 이윤"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "sphere",
+  "pos": "n.",
+  "meaning": "구체, 구(球)"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "rough",
+  "pos": "a.",
+  "meaning": "거친, 대강의"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "geometry",
+  "pos": "n.",
+  "meaning": "기하학"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "fierce",
+  "pos": "a.",
+  "meaning": "사나운, 맹렬한"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "barter",
+  "pos": "v.",
+  "meaning": "물물 교환하다"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "chilly",
+  "pos": "a.",
+  "meaning": "쌀쌀한, 냉담한"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "circular",
+  "pos": "a.",
+  "meaning": "원형의, 순환의"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "session",
+  "pos": "n.",
+  "meaning": "시간, 기간"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "glacier",
+  "pos": "n.",
+  "meaning": "빙하"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "indifferent",
+  "pos": "a.",
+  "meaning": "무관심한"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "ancestor",
+  "pos": "n.",
+  "meaning": "조상, 선조"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "dismiss",
+  "pos": "v.",
+  "meaning": "해고하다, 묵살하다"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "investigate",
+  "pos": "v.",
+  "meaning": "조사하다, 수사하다"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "disgrace",
+  "pos": "n.",
+  "meaning": "불명예, 수치"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "strain",
+  "pos": "n.",
+  "meaning": "긴장, 압박"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "ingredient",
+  "pos": "n.",
+  "meaning": "재료, 성분"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "antique",
+  "pos": "n.",
+  "meaning": "골동품"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "obvious",
+  "pos": "a.",
+  "meaning": "명백한, 분명한"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "vague",
+  "pos": "a.",
+  "meaning": "모호한, 막연한"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "urge",
+  "pos": "v.",
+  "meaning": "촉구하다, 강요하다"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "content",
+  "pos": "n.",
+  "meaning": "내용, 목차"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "celebrity",
+  "pos": "n.",
+  "meaning": "유명 인사"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "obstacle",
+  "pos": "n.",
+  "meaning": "장애물"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "graze",
+  "pos": "v.",
+  "meaning": "풀을 뜯다, 방목하다"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "crawl",
+  "pos": "v.",
+  "meaning": "기어가다, 서행하다"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "editorial",
+  "pos": "n.",
+  "meaning": "사설, 논설"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "myth",
+  "pos": "n.",
+  "meaning": "신화, 사회적 통념"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "moderate",
+  "pos": "a.",
+  "meaning": "온건한, 적당한"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "vital",
+  "pos": "a.",
+  "meaning": "필수적인, 중요한"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "inherit",
+  "pos": "v.",
+  "meaning": "상속하다, 물려받다"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "incident",
+  "pos": "n.",
+  "meaning": "사건, 일어난 일"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "constitute",
+  "pos": "v.",
+  "meaning": "구성하다, 설립하다"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "congestion",
+  "pos": "n.",
+  "meaning": "혼잡, 밀집"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "diabetes",
+  "pos": "n.",
+  "meaning": "당뇨병"
+ },
+ {
+  "day": 19,
+  "exam": "final",
+  "word": "nutrient",
+  "pos": "n.",
+  "meaning": "영양소, 영양분"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "wage",
+  "pos": "n.",
+  "meaning": "임금, 급료"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "lord",
+  "pos": "n.",
+  "meaning": "군주"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "form",
+  "pos": "n.",
+  "meaning": "형태, 종류"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "refresh",
+  "pos": "v.",
+  "meaning": "상쾌하게 하다"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "gender",
+  "pos": "n.",
+  "meaning": "성별, 성"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "present",
+  "pos": "a.",
+  "meaning": "현재의"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "scan",
+  "pos": "v.",
+  "meaning": "정밀 검사하다, 유심히 보다"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "flavor",
+  "pos": "n.",
+  "meaning": "맛, 풍미"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "ceremony",
+  "pos": "n.",
+  "meaning": "의식, 의례"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "portray",
+  "pos": "v.",
+  "meaning": "묘사하다, 초상을 그리다"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "justify",
+  "pos": "v.",
+  "meaning": "정당화하다"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "dwell",
+  "pos": "v.",
+  "meaning": "거주하다, 살다"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "grateful",
+  "pos": "a.",
+  "meaning": "감사하는, 고마워하는"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "exclaim",
+  "pos": "v.",
+  "meaning": "외치다, 소리치다"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "backward",
+  "pos": "ad.",
+  "meaning": "뒤쪽으로, 거꾸로"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "layer",
+  "pos": "n.",
+  "meaning": "층, 겹"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "innovation",
+  "pos": "n.",
+  "meaning": "혁신"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "relate",
+  "pos": "v.",
+  "meaning": "관련시키다, 관련이 있다"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "tissue",
+  "pos": "n.",
+  "meaning": "(생물의) 조직"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "abolish",
+  "pos": "v.",
+  "meaning": "폐지하다"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "pottery",
+  "pos": "n.",
+  "meaning": "도자기, 도예"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "emperor",
+  "pos": "n.",
+  "meaning": "황제"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "fossil",
+  "pos": "n.",
+  "meaning": "화석"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "translate",
+  "pos": "v.",
+  "meaning": "번역하다, 옮기다"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "opponent",
+  "pos": "n.",
+  "meaning": "상대, 반대자"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "administer",
+  "pos": "v.",
+  "meaning": "관리하다, 집행하다"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "remove",
+  "pos": "v.",
+  "meaning": "제거하다"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "chore",
+  "pos": "n.",
+  "meaning": "허드렛일, 집안일"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "glitter",
+  "pos": "v.",
+  "meaning": "반짝이다"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "fertile",
+  "pos": "a.",
+  "meaning": "비옥한, 기름진"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "miserable",
+  "pos": "a.",
+  "meaning": "비참한, 불쌍한"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "asset",
+  "pos": "n.",
+  "meaning": "자산, 재산"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "property",
+  "pos": "n.",
+  "meaning": "재산, 부동산"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "polish",
+  "pos": "v.",
+  "meaning": "닦다, 윤을 내다"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "assure",
+  "pos": "v.",
+  "meaning": "보증하다, 확실하게 하다"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "subscribe",
+  "pos": "v.",
+  "meaning": "구독하다, 가입하다"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "radiant",
+  "pos": "a.",
+  "meaning": "빛나는, 아주 밝은"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "strive",
+  "pos": "v.",
+  "meaning": "노력하다, 애쓰다"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "protein",
+  "pos": "n.",
+  "meaning": "단백질"
+ },
+ {
+  "day": 20,
+  "exam": "final",
+  "word": "decay",
+  "pos": "v.",
+  "meaning": "부패하다, 쇠퇴하다"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "merit",
+  "pos": "n.",
+  "meaning": "장점, 공로"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "angle",
+  "pos": "n.",
+  "meaning": "각도, 모서리"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "pill",
+  "pos": "n.",
+  "meaning": "알약"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "string",
+  "pos": "n.",
+  "meaning": "끈, 줄"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "shrug",
+  "pos": "v.",
+  "meaning": "(어깨를) 으쓱하다"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "majesty",
+  "pos": "n.",
+  "meaning": "위엄, 장엄"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "superior",
+  "pos": "a.",
+  "meaning": "우월한, 우수한"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "cope",
+  "pos": "v.",
+  "meaning": "대처하다, 잘 처리하다"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "discard",
+  "pos": "v.",
+  "meaning": "버리다, 처분하다"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "transmit",
+  "pos": "v.",
+  "meaning": "전달하다"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "stuff",
+  "pos": "n.",
+  "meaning": "물건, 것"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "enhance",
+  "pos": "v.",
+  "meaning": "향상하다"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "copper",
+  "pos": "n.",
+  "meaning": "구리"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "persist",
+  "pos": "v.",
+  "meaning": "지속하다, 고집하다"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "accuse",
+  "pos": "v.",
+  "meaning": "고발하다, 비난하다"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "bond",
+  "pos": "n.",
+  "meaning": "유대, 결속"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "depict",
+  "pos": "v.",
+  "meaning": "묘사하다, 그리다"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "subtle",
+  "pos": "a.",
+  "meaning": "미묘한, 교묘한"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "reverse",
+  "pos": "n.",
+  "meaning": "역, 반대"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "intimate",
+  "pos": "a.",
+  "meaning": "친밀한"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "reception",
+  "pos": "n.",
+  "meaning": "환영회, 접수"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "famine",
+  "pos": "n.",
+  "meaning": "기근, 굶주림"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "vicious",
+  "pos": "a.",
+  "meaning": "사악한, 악의 있는"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "eternal",
+  "pos": "a.",
+  "meaning": "영원한"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "colleague",
+  "pos": "n.",
+  "meaning": "동료"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "obedient",
+  "pos": "a.",
+  "meaning": "순종하는, 유순한"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "orbit",
+  "pos": "n.",
+  "meaning": "궤도"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "radical",
+  "pos": "a.",
+  "meaning": "급진적인, 근본적인"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "therapy",
+  "pos": "n.",
+  "meaning": "치료, 요법"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "caution",
+  "pos": "n.",
+  "meaning": "주의, 조심"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "cherish",
+  "pos": "v.",
+  "meaning": "소중히 하다"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "loan",
+  "pos": "n.",
+  "meaning": "대출, 대출금"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "immune",
+  "pos": "a.",
+  "meaning": "면역성의, 면제된"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "procedure",
+  "pos": "n.",
+  "meaning": "절차, 과정"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "conference",
+  "pos": "n.",
+  "meaning": "회의, 회담"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "raw",
+  "pos": "a.",
+  "meaning": "날것의, 가공하지 않은"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "shrink",
+  "pos": "v.",
+  "meaning": "수축하다, 줄어들다"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "overwhelm",
+  "pos": "v.",
+  "meaning": "압도하다"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "coincidence",
+  "pos": "n.",
+  "meaning": "우연의 일치"
+ },
+ {
+  "day": 21,
+  "exam": "final",
+  "word": "dwindle",
+  "pos": "v.",
+  "meaning": "점점 줄어들다"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "compact",
+  "pos": "a.",
+  "meaning": "소형의, 조밀한"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "ban",
+  "pos": "v.",
+  "meaning": "금지하다"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "graduate",
+  "pos": "v.",
+  "meaning": "졸업하다"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "hence",
+  "pos": "ad.",
+  "meaning": "그러므로"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "attract",
+  "pos": "v.",
+  "meaning": "(주의·흥미를) 끌다"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "loyal",
+  "pos": "a.",
+  "meaning": "충성스러운, 성실한"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "flush",
+  "pos": "v.",
+  "meaning": "(얼굴이) 붉어지다"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "funeral",
+  "pos": "n.",
+  "meaning": "장례식"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "panic",
+  "pos": "n.",
+  "meaning": "공황, 갑작스러운 공포"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "handle",
+  "pos": "v.",
+  "meaning": "다루다"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "vessel",
+  "pos": "n.",
+  "meaning": "배, 용기, 혈관"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "marble",
+  "pos": "n.",
+  "meaning": "대리석, 구슬"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "fundamental",
+  "pos": "a.",
+  "meaning": "근본적인, 기본적인"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "category",
+  "pos": "n.",
+  "meaning": "범주"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "humid",
+  "pos": "a.",
+  "meaning": "습한, 눅눅한"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "wilderness",
+  "pos": "n.",
+  "meaning": "황무지, 황야"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "astonish",
+  "pos": "v.",
+  "meaning": "놀라게 하다"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "pretend",
+  "pos": "v.",
+  "meaning": "~인 척하다"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "strategy",
+  "pos": "n.",
+  "meaning": "전략"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "adequate",
+  "pos": "a.",
+  "meaning": "적당한, 충분한"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "via",
+  "pos": "prep.",
+  "meaning": "~을 거쳐, ~을 통해"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "physician",
+  "pos": "n.",
+  "meaning": "의사, 내과 의사"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "alert",
+  "pos": "a.",
+  "meaning": "기민한, 경계하는"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "delicate",
+  "pos": "a.",
+  "meaning": "섬세한"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "omit",
+  "pos": "v.",
+  "meaning": "생략하다, 빼다"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "architecture",
+  "pos": "n.",
+  "meaning": "건축, 건축물"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "despair",
+  "pos": "n.",
+  "meaning": "절망"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "passive",
+  "pos": "a.",
+  "meaning": "수동적인"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "likewise",
+  "pos": "ad.",
+  "meaning": "마찬가지로"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "passage",
+  "pos": "n.",
+  "meaning": "통로, (인용문의) 한 절"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "prefer",
+  "pos": "v.",
+  "meaning": "선호하다"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "optimistic",
+  "pos": "a.",
+  "meaning": "낙관적인"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "classify",
+  "pos": "v.",
+  "meaning": "분류하다"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "outcome",
+  "pos": "n.",
+  "meaning": "결과"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "joint",
+  "pos": "a.",
+  "meaning": "공동의, 연합의"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "restore",
+  "pos": "v.",
+  "meaning": "회복하다, 복구하다"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "inflate",
+  "pos": "v.",
+  "meaning": "부풀리다, 과장하다"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "murder",
+  "pos": "n.",
+  "meaning": "살인"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "skeleton",
+  "pos": "n.",
+  "meaning": "골격, 뼈대"
+ },
+ {
+  "day": 22,
+  "exam": "final",
+  "word": "humiliation",
+  "pos": "n.",
+  "meaning": "굴욕, 창피함"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "jealous",
+  "pos": "a.",
+  "meaning": "질투하는"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "casual",
+  "pos": "a.",
+  "meaning": "격식을 차리지 않는, 우연한"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "suffer",
+  "pos": "v.",
+  "meaning": "고통받다, 겪다"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "symbolic",
+  "pos": "a.",
+  "meaning": "상징적인"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "concern",
+  "pos": "n.",
+  "meaning": "걱정, 관심사"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "desert",
+  "pos": "n.",
+  "meaning": "사막"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "prepare",
+  "pos": "v.",
+  "meaning": "준비하다"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "bud",
+  "pos": "n.",
+  "meaning": "싹"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "trade",
+  "pos": "n.",
+  "meaning": "거래, 무역"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "infinite",
+  "pos": "a.",
+  "meaning": "무한한"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "exclude",
+  "pos": "v.",
+  "meaning": "제외하다, 배제하다"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "sufficient",
+  "pos": "a.",
+  "meaning": "충분한"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "diminish",
+  "pos": "v.",
+  "meaning": "감소하다"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "peasant",
+  "pos": "n.",
+  "meaning": "농민, 소작농"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "liquid",
+  "pos": "n.",
+  "meaning": "액체"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "behalf",
+  "pos": "n.",
+  "meaning": "이익, 자기편"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "edible",
+  "pos": "a.",
+  "meaning": "먹을 수 있는, 식용의"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "pavement",
+  "pos": "n.",
+  "meaning": "보도, 포장도로"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "decent",
+  "pos": "a.",
+  "meaning": "제대로 된, 품위 있는"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "worthwhile",
+  "pos": "a.",
+  "meaning": "~할 가치가 있는"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "outlook",
+  "pos": "n.",
+  "meaning": "전망, 조망"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "stable",
+  "pos": "a.",
+  "meaning": "안정된"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "transaction",
+  "pos": "n.",
+  "meaning": "거래, 처리"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "anticipate",
+  "pos": "v.",
+  "meaning": "예상하다, 기대하다"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "flexible",
+  "pos": "a.",
+  "meaning": "유연한, 융통성 있는"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "by-product",
+  "pos": "n.",
+  "meaning": "부산물"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "tablet",
+  "pos": "n.",
+  "meaning": "알약, 정제"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "tenant",
+  "pos": "n.",
+  "meaning": "세입자, 주민"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "sympathy",
+  "pos": "n.",
+  "meaning": "동정, 공감"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "roam",
+  "pos": "v.",
+  "meaning": "배회하다, 돌아다니다"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "principal",
+  "pos": "a.",
+  "meaning": "주요한, 제1의"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "nominate",
+  "pos": "v.",
+  "meaning": "지명하다, 임명하다"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "federal",
+  "pos": "a.",
+  "meaning": "연방의"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "devote",
+  "pos": "v.",
+  "meaning": "(시간·노력을) 바치다"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "characteristic",
+  "pos": "n.",
+  "meaning": "특징, 특색"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "sacred",
+  "pos": "a.",
+  "meaning": "신성한, 성스러운"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "anxiety",
+  "pos": "n.",
+  "meaning": "불안, 걱정"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "distortion",
+  "pos": "n.",
+  "meaning": "왜곡"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "municipal",
+  "pos": "a.",
+  "meaning": "시의, 지방 자치의"
+ },
+ {
+  "day": 23,
+  "exam": "final",
+  "word": "phenomenon",
+  "pos": "n.",
+  "meaning": "현상"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "plot",
+  "pos": "n.",
+  "meaning": "줄거리, 음모"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "control",
+  "pos": "v.",
+  "meaning": "통제하다, 지배하다"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "iceberg",
+  "pos": "n.",
+  "meaning": "빙산"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "fate",
+  "pos": "n.",
+  "meaning": "운명"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "booth",
+  "pos": "n.",
+  "meaning": "부스, 칸막이 공간"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "industry",
+  "pos": "n.",
+  "meaning": "산업, 공업"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "rod",
+  "pos": "n.",
+  "meaning": "막대기, 회초리"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "partial",
+  "pos": "a.",
+  "meaning": "부분적인, 편파적인"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "suggest",
+  "pos": "v.",
+  "meaning": "암시하다, 넌지시 말하다"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "pursue",
+  "pos": "v.",
+  "meaning": "추구하다, 쫓다"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "internal",
+  "pos": "a.",
+  "meaning": "내부의"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "weird",
+  "pos": "a.",
+  "meaning": "이상한, 기묘한"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "priceless",
+  "pos": "a.",
+  "meaning": "대단히 귀중한"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "trigger",
+  "pos": "v.",
+  "meaning": "촉발하다, 유발하다"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "insult",
+  "pos": "v.",
+  "meaning": "모욕하다"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "gloom",
+  "pos": "n.",
+  "meaning": "우울, 어둠"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "deliberate",
+  "pos": "a.",
+  "meaning": "의도적인, 신중한"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "suspend",
+  "pos": "v.",
+  "meaning": "중지하다, 매달다"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "judge",
+  "pos": "v.",
+  "meaning": "판단하다"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "monetary",
+  "pos": "a.",
+  "meaning": "화폐의, 통화의"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "resent",
+  "pos": "v.",
+  "meaning": "분개하다"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "revise",
+  "pos": "v.",
+  "meaning": "수정하다, 개정하다"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "diverse",
+  "pos": "a.",
+  "meaning": "다양한"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "mutual",
+  "pos": "a.",
+  "meaning": "서로의, 공통의"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "mammal",
+  "pos": "n.",
+  "meaning": "포유동물"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "martial",
+  "pos": "a.",
+  "meaning": "전쟁의, 군대의"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "refine",
+  "pos": "v.",
+  "meaning": "정제하다, 개선하다"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "Atlantic",
+  "pos": "n.",
+  "meaning": "대서양"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "nerve",
+  "pos": "n.",
+  "meaning": "신경"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "gaze",
+  "pos": "v.",
+  "meaning": "응시하다, 뚫어지게 보다"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "erupt",
+  "pos": "v.",
+  "meaning": "분출하다, 폭발하다"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "prescribe",
+  "pos": "v.",
+  "meaning": "처방하다, 규정하다"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "collapse",
+  "pos": "v.",
+  "meaning": "무너지다, 붕괴하다"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "abrupt",
+  "pos": "a.",
+  "meaning": "갑작스러운"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "prompt",
+  "pos": "a.",
+  "meaning": "즉각적인, 신속한"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "support",
+  "pos": "v.",
+  "meaning": "지지하다, 부양하다"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "monologue",
+  "pos": "n.",
+  "meaning": "독백"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "supreme",
+  "pos": "a.",
+  "meaning": "최고의"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "dynamic",
+  "pos": "a.",
+  "meaning": "역동적인, 동적인"
+ },
+ {
+  "day": 24,
+  "exam": "final",
+  "word": "distraction",
+  "pos": "n.",
+  "meaning": "주의 산만, 기분 전환"
+ }
+]
