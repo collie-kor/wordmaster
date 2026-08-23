@@ -6,7 +6,7 @@
 
 import allWords from './data/words.json' with { type: 'json' }
 
-const VALID_EXAMS = new Set(['midterm', 'final'])
+const VALID_EXAMS = new Set(['midterm', 'final', 'midterm2'])
 
 export default function handler(req, res) {
   // CORS — APK는 다른 출처(예: capacitor://localhost)에서 호출하므로 허용.

@@ -12,6 +12,7 @@ export interface ExamDef {
 export const EXAMS: ExamDef[] = [
   { exam: 'midterm', title: '1학년 1학기 중간고사', range: 'DAY 1 – 12' },
   { exam: 'final', title: '1학년 1학기 기말고사', range: 'DAY 13 – 24' },
+  { exam: 'midterm2', title: '1학년 2학기 중간고사', range: 'DAY 25 – 36' },
 ]
 
 interface Props {

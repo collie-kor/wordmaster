@@ -1,4 +1,4 @@
-export type Exam = 'midterm' | 'final'
+export type Exam = 'midterm' | 'final' | 'midterm2'
 
 export interface Word {
   day: number
